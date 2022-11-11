@@ -58,83 +58,6 @@ he is best known to the general public for his mass–energy equivalence formula
       </categories>
   </entry>
   <entry>
-    <title>Cicada 3301 (蟬 3301)｜一個至今仍充滿謎團的神秘組織</title>
-    <url>/2020/02/05/Cicada3301/</url>
-    <content><![CDATA[<p><strong>2012 年</strong> 初，「 <strong>Cicada 3301</strong> 」的名聲開始傳開，而該神秘組織招收高智商成員的背後到底有什麼陰謀？</p>
-<span id="more"></span>
-<img src="/2020/02/05/Cicada3301/title.jpg" class="" title="取自網絡，Cicada 3301 留下的訊息。">
-<hr>
-<h3 id="前言">前言</h3>
-<p>如果你並不是資訊領域的人，也不是<a href="https://zh.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA"><strong>都市傳說</strong></a>或<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6"><strong>密碼學</strong></a>的愛好者，那你可能沒聽過「 <strong>Cicada 3301</strong> 」。關於該組織的資訊量少之又少，不少人想盡各種方法要撈出他們的資訊，但結果總是徒勞。</p>
-<p>以下，本文帶你一探這神秘組織的過去。</p>
-<p>另外，在此聲明一點：<br>
-<strong>以下所展示的圖片，大多源自網絡上流傳，並非原圖，所以長寬及內容可能與原圖有些落差。</strong></p>
-<hr>
-<h3 id="起源">起源</h3>
-<p><strong>2012 年 1 月 4 日</strong>，知名的美國貼圖論壇「<a href="https://zh.wikipedia.org/wiki/4chan"><strong>4chan</strong></a>」上，有個自稱「 <strong>3301</strong> 」的人張貼了如下圖的貼文，一張檔名為「 <strong>final.jpg</strong> 」的圖片，裡面寫著黑底白字的訊息，其內容為：<br>
-「 <strong>Hello. We are looking for highly intelligent individuals. To find them, we have devised a test.There is a message hidden in the image.Find it, and it will lead you on the road to finding us. We look forward to meeting the few that will make it all the wat through. - 3301<br><em>(哈囉，我們正在尋找擁有高智商的人。為了找到這些人，我們設計了一道測試題。這張圖中隱藏著一個訊息。找到它，它將會帶領你找到我們。我們期待與這些少數人見面。祝你好運。 - 3301)</em></strong> 」。</p>
-<img src="/2020/02/05/Cicada3301/first_post.jpg" class="" title="Cicada 3301在4Chan留下了第一則訊息。">
-<p>當你將該圖片使用文字編輯器開啟後，便能在最下方找到隱藏的訊息「 <strong>TIBERIVS CLAVDIVS CAESAR says “lxxt&gt;33m2mqkyv2gsq3q=w]02ntk”</strong> 」，許多有稍微聽聞過密碼學的網友看到了「 <strong>CAESAR</strong> 」應該都會直接想到「<a href="https://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC"><strong>Caesar Cipher (凱薩密碼)</strong></a>」，將該訊息中的亂碼「 <strong>lxxt&gt;33m2mqkyv2gsq3q=w]02ntk</strong> 」對照 <a href="https://zh.wikipedia.org/wiki/ASCII"><strong>ASCII Code (美國資訊交換標準代碼)</strong></a> 後透過 <strong>Caesar Cipher (凱薩密碼)</strong> 便可推回網址「 <strong>http://i.imgur.com/m9sYK.jpg</strong> 」，網址導向到了一張以「<a href="https://zh.wikipedia.org/wiki/JPEG"><strong>JPG</strong></a>」為副檔名的圖片 (如下圖)。其內容為：<br>
-「 <em><strong>WOOPS, Just decoys this way.Looks Like you can’t guess how to get the message out. (噢！這是個圈套。看起來你好像無法找到訊息囉。</strong></em>」</p>
-<img src="/2020/02/05/Cicada3301/01.jpg" class="" title="圖片中隱藏的網址所導向的圖片。可愛鴨子 &#x2F;&#x2F;&#x2F; w &#x2F;&#x2F;&#x2F;">
-<p>該訊息讓人覺得自己找錯位置了，當時不少人在這邊卡關，總是不斷回頭尋找線索，然而其實該訊息真正在暗示你的是兩個單字「 <strong>Guess</strong> 」、「 <strong>Out</strong> 」，這兩個單字剛好可以組成一個有名的加密軟體的名稱「<a href="https://en.wikipedia.org/wiki/OutGuess"><strong>OutGuess</strong></a>」。<br>
-果不其然，當該圖片經過 OutGuess 解密後，解出了一段訊息：<br>
-「 <em><strong>Here is a book code. To find the book, and more information, go to http://www.reddit.com/r/a2e7j6ic78h0j/. 1:20, 2:3, 3:5, 4:20, 5:5, 6:53, 7:1. (這是 Book code。找到書，及更多資訊，訪問 http://www.reddit.com/r/a2e7j6ic78h0j/。1:20, 2:3, 3:5, 4:20, 5:5, 6:53, 7:1)</strong></em> 」</p>
-<p>訪問內容中的網址「 <strong>http://www.reddit.com/r/a2e7j6ic78h0j/</strong> 」後，可以看到一堆亂碼：</p>
-<img src="/2020/02/05/Cicada3301/02.png" class="" title="reddit.com">
-<p>其中，除了亂碼外，還可以找到如下兩張圖。而這兩張圖再經過 OutGuess 解密後會出現兩則訊息，該訊息大致上是提供了「<a href="https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86"><strong>非對稱加密</strong></a>」的公鑰給各位，至於原理，在這邊怕離題就不贅述，總之你可以理解成，3301 表示將在未來使用 「 <strong>Private Key (私鑰)</strong> 」加密訊息，大家則可以使用這個訊息內所公佈的「 <strong>Public Key (公鑰)</strong> 」進行解密，進而得知 3301 所想傳達的訊息。有了這樣的機制，就不怕網路上有人偽造 3301 發送假的訊息了。(PS：該公鑰 PGP ID 為：<strong>7A35090F</strong>)</p>
-<p>有興趣了解<strong>非對稱加密</strong>的朋友可以看另一篇我的文章「<a href="../../16/Public-keyCryptography(%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86)"><strong>Public-key Cryptography (非對稱加密)</strong></a>」。</p>
-<img src="/2020/02/05/Cicada3301/03.jpg" class="" title="reddit.com">
-<img src="/2020/02/05/Cicada3301/04.jpg" class="" title="reddit.com">
-<p>故事到了這邊聲明下，由於<strong>解密過程並非本文重點</strong>，前面只是為了讓讀者了解解密過程大約是什麼感覺，之後的過程我就隨意帶過，有興趣的可以上網搜尋相關資訊，目前 3301 所釋出的題目大致上都已經有解答出現在網絡上囉。</p>
-<p>總之在經過各道題目解密後，最後引導你打向一通電話，電話的另一頭是一段錄音，其內容為：<br>
-「 <em><strong>Very good. You have done well. There are three prime numbers associated with the original final.jpg image. 3301 is one of them. You will have to find the other two. Multiply all three of these numbers together and add a 「.com」 to find the next step. Good luck. Goodbye.<br>
-(很好，你做的非常好。有三個質數與原始的 final.jpg 圖片相關。「3301」是其中一個。你必須找到其他兩個。將三個數字相乘，然後加上「.com」來進到下一步，祝你好運，再見。)</strong></em> 」</p>
-<p>在原始的那張訊息圖片，其寬為<strong> 503 px</strong>，高為<strong> 509 px</strong>，「503」、「509」皆為質數，與 3301 相乘後，得出「 <strong>845145127</strong> 」，加上「 <strong>.com</strong> 」後訪問該網址，會看到一個像是「 <strong>蟬</strong> 」的圖片，並且下方有個倒數計時器，該圖片再使用 OutGuess 解密後，得出的訊息表示，你需要在 <strong>1 月 9 日 17:00</strong> 再次回來查看。</p>
-<img src="/2020/02/05/Cicada3301/ps_01.jpeg" class="" width="3301">
-<hr>
-<p><strong>2012 年 1 月 9 日 17:00</strong>，倒數計時結束，網頁顯示出了<strong> 14</strong> 個座標，這些座標分散至<strong> 5</strong> 個國家，實際到了這些座標點後，會看到如下方圖片這樣的紙被張貼在電線杆上：</p>
-<img src="/2020/02/05/Cicada3301/05.jpg" class="" width="3301">
-<img src="/2020/02/05/Cicada3301/06.jpg" class="" width="3301">
-<img src="/2020/02/05/Cicada3301/07.jpg" class="" width="3301">
-<img src="/2020/02/05/Cicada3301/08.jpg" class="" width="3301">
-<p>掃描圖上的 <a href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%B6%AD%E7%A2%BC"><strong>二維碼</strong></a> 後，就來到了最後一步，解密後得出了一道網址「 <strong>sq6wmgv2zcsrix6t.onion</strong> 」，該網址屬於暗網網址，需要使用如「<a href="https://zh.wikipedia.org/wiki/%E6%B7%B1%E7%BD%91"><strong>Tor Browser (洋蔥瀏覽器)</strong></a>」等特殊瀏覽器來進行訪問，在大家迫不及待的訪問該位址後，網站上卻只有一句話：「 <em><strong>We want the best, not the followers. (我們只要最好，而不是跟風的人。)</strong></em> 」，這邊或許可以理解成，他們只想要前幾個甚至僅僅是第一個訪問該網址的人，要的是最快解出測試題的人。</p>
-<p>直至一個月後，3301 傳出一道如下圖的訊息，內容為：<br>
-「 <em><strong>Hello. We have now found the individuals we sought. Thus our month-long iourney ends. For now. Thank you for your dedication and effort. If you were unable to complete the test, or did not receive an emailm do not despair. There will be more opportunities like this one. Thank you all. - 3301<br>
-P.S. 1041279065871998535982789873959431895640\442510695567564373922695237268242385295908173\9834390370374475764863415203423499357108713631</strong></em> 」。</p>
-<p>其意思大約是「 <strong>哈囉。我們已經找到我們要的人了。我們長達一個月的旅程結束了。現在。感謝你的奉獻與努力。如果你沒完成測試，或者沒有收到電子郵件，請不要失望。會有更多像這樣的機會的。謝謝你們。 - 3301</strong> 」。</p>
-<img src="/2020/02/05/Cicada3301/end_post.jpg" class="" width="3301">
-<hr>
-<p>事情看似告一段落，然而就在隔年…</p>
-<p><strong>2013 年 1 月 4 日</strong>，3301 傳出又要招募的消息，以和去年一樣的方式釋出各種題目。</p>
-<p><strong>2014 年 1 月 4 日</strong>，同樣的釋出招募消息及題目，但這次釋出題目的平台改成了 <a href="https://zh.wikipedia.org/wiki/Twitter"><strong>Twitter (推特)</strong></a> 。(<a href="https://twitter.com/1231507051321" title="Cicada 3301 Twitter帳戶"><strong>@1231507051321</strong></a>)，並且題目指向了一本由他們自己所寫的書，書中內容看似「<a href="https://zh.wikipedia.org/wiki/%E7%9B%A7%E6%81%A9%E5%AD%97%E6%AF%8D"><strong>盧恩字母</strong></a>」，也再次引起各領域的好手注意，但可惜的是，這次真的考倒大家了…</p>
-<p>關於 2014 年那本書所釋出的題目，至今僅被解出一小部份，此後，網絡上就再也沒看到 3301 所發出的消息了，或許是在等待著那本書被解密的一天吧。</p>
-<hr>
-<h3 id="形象">形象</h3>
-<p>「 <strong>Cicada 3301</strong> 」的形象為下圖，一個長得很像「 <strong>蛾</strong> 」的圖案，但「 <strong>Cicada</strong> 」是「 <strong>蟬</strong> 」的意思，所以推測該圖應該是指蟬。<br>
-由於官方並沒有出面說明，所以至於為什麼是「 <strong>蟬</strong> 」，又為什麼是「 <strong>3301</strong> 」，目前無法得知。</p>
-<img src="/2020/02/05/Cicada3301/logo.jpg" class="" width="3301">
-<hr>
-<h3 id="目的">目的</h3>
-<p>釋出的訊息中指出，要找「 <strong>高智商</strong> 」的人，但該組織所找的人不僅僅是「高 <a href="https://zh.wikipedia.org/wiki/%E6%99%BA%E5%95%86"><strong>IQ (智商)</strong></a>」，因為在之後的許多測試中，題目不只 <a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6"><strong>數學</strong></a>、<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6"><strong>密碼學</strong></a>，還有包含像是 <a href="https://zh.wikipedia.org/wiki/%E9%9F%B3%E6%A8%82%E7%90%86%E8%AB%96"><strong>樂理</strong></a>、<a href="https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2"><strong>歷史</strong></a> 等多方面的知識，如果單純只是要找聰明人，那為何還要要求要一堆藝術相關的知識？</p>
-<p>有人開始猜測，這可能是<strong>政府相關的機構</strong>在招收人才，如 <a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80"><strong>NSA (美國國安局)</strong></a>、<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%83%85%E6%8A%A5%E5%B1%80"><strong>CIA (中央情報局)</strong></a> 等，用於<strong>國家的祕密用途</strong>，也有人表示，這可能是 <strong>Google</strong> 之類的大企業招收人才的手段，甚至在<a href="https://zh.wikipedia.org/wiki/%E9%99%B0%E8%AC%80%E8%AB%96"><strong>陰謀論</strong></a>的愛好者中也有人在討論，說這是來自<strong>恐怖份子</strong>的招募。</p>
-<p>由於官方並無透漏任何相關說明，<br>
-<strong>該組織的目的到目前為止還是個問號。</strong></p>
-<hr>
-<h3 id="疑惑">疑惑（？</h3>
-<p>看完上述的故事後，本人有個非常大的疑惑，我也在網上看到許多人提出相同的疑問，在此提出給大家思考看看：</p>
-<p>首先，前面經過這一大堆的測試，而最後卻僅僅是在路邊掃個 QR Code 就結束了！？ 這點很明顯是有問題的吧…<br>
- 不過畢竟是網路流傳的訊息，多少被經過修改，就不糾結這個問題了，大家看看就好。</p>
-]]></content>
-      <categories>
-        <category>Information (資訊分享)</category>
-      </categories>
-      <tags>
-        <tag>Cicada3301</tag>
-        <tag>Cryptography (密碼學)</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Anonymous 匿名者｜恐怖份子？神秘的駭客組織？</title>
     <url>/2020/02/04/Anonymous/</url>
     <content><![CDATA[<p>「 <em><strong>面具之下不止是肉體，而是理念，肉體可以被子彈殺死，但理念永恆不滅，也無畏無懼。</strong></em> 」 - <strong>V</strong></p>
@@ -274,6 +197,83 @@ MIT.edu、DOJ.gov、W3.gov 等相關網站相繼被駭客關閉。</li>
       <tags>
         <tag>Anonymous (匿名者)</tag>
         <tag>Hacker (駭客)</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cicada 3301 (蟬 3301)｜一個至今仍充滿謎團的神秘組織</title>
+    <url>/2020/02/05/Cicada3301/</url>
+    <content><![CDATA[<p><strong>2012 年</strong> 初，「 <strong>Cicada 3301</strong> 」的名聲開始傳開，而該神秘組織招收高智商成員的背後到底有什麼陰謀？</p>
+<span id="more"></span>
+<img src="/2020/02/05/Cicada3301/title.jpg" class="" title="取自網絡，Cicada 3301 留下的訊息。">
+<hr>
+<h3 id="前言">前言</h3>
+<p>如果你並不是資訊領域的人，也不是<a href="https://zh.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA"><strong>都市傳說</strong></a>或<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6"><strong>密碼學</strong></a>的愛好者，那你可能沒聽過「 <strong>Cicada 3301</strong> 」。關於該組織的資訊量少之又少，不少人想盡各種方法要撈出他們的資訊，但結果總是徒勞。</p>
+<p>以下，本文帶你一探這神秘組織的過去。</p>
+<p>另外，在此聲明一點：<br>
+<strong>以下所展示的圖片，大多源自網絡上流傳，並非原圖，所以長寬及內容可能與原圖有些落差。</strong></p>
+<hr>
+<h3 id="起源">起源</h3>
+<p><strong>2012 年 1 月 4 日</strong>，知名的美國貼圖論壇「<a href="https://zh.wikipedia.org/wiki/4chan"><strong>4chan</strong></a>」上，有個自稱「 <strong>3301</strong> 」的人張貼了如下圖的貼文，一張檔名為「 <strong>final.jpg</strong> 」的圖片，裡面寫著黑底白字的訊息，其內容為：<br>
+「 <strong>Hello. We are looking for highly intelligent individuals. To find them, we have devised a test.There is a message hidden in the image.Find it, and it will lead you on the road to finding us. We look forward to meeting the few that will make it all the wat through. - 3301<br><em>(哈囉，我們正在尋找擁有高智商的人。為了找到這些人，我們設計了一道測試題。這張圖中隱藏著一個訊息。找到它，它將會帶領你找到我們。我們期待與這些少數人見面。祝你好運。 - 3301)</em></strong> 」。</p>
+<img src="/2020/02/05/Cicada3301/first_post.jpg" class="" title="Cicada 3301在4Chan留下了第一則訊息。">
+<p>當你將該圖片使用文字編輯器開啟後，便能在最下方找到隱藏的訊息「 <strong>TIBERIVS CLAVDIVS CAESAR says “lxxt&gt;33m2mqkyv2gsq3q=w]02ntk”</strong> 」，許多有稍微聽聞過密碼學的網友看到了「 <strong>CAESAR</strong> 」應該都會直接想到「<a href="https://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC"><strong>Caesar Cipher (凱薩密碼)</strong></a>」，將該訊息中的亂碼「 <strong>lxxt&gt;33m2mqkyv2gsq3q=w]02ntk</strong> 」對照 <a href="https://zh.wikipedia.org/wiki/ASCII"><strong>ASCII Code (美國資訊交換標準代碼)</strong></a> 後透過 <strong>Caesar Cipher (凱薩密碼)</strong> 便可推回網址「 <strong>http://i.imgur.com/m9sYK.jpg</strong> 」，網址導向到了一張以「<a href="https://zh.wikipedia.org/wiki/JPEG"><strong>JPG</strong></a>」為副檔名的圖片 (如下圖)。其內容為：<br>
+「 <em><strong>WOOPS, Just decoys this way.Looks Like you can’t guess how to get the message out. (噢！這是個圈套。看起來你好像無法找到訊息囉。</strong></em>」</p>
+<img src="/2020/02/05/Cicada3301/01.jpg" class="" title="圖片中隱藏的網址所導向的圖片。可愛鴨子 &#x2F;&#x2F;&#x2F; w &#x2F;&#x2F;&#x2F;">
+<p>該訊息讓人覺得自己找錯位置了，當時不少人在這邊卡關，總是不斷回頭尋找線索，然而其實該訊息真正在暗示你的是兩個單字「 <strong>Guess</strong> 」、「 <strong>Out</strong> 」，這兩個單字剛好可以組成一個有名的加密軟體的名稱「<a href="https://en.wikipedia.org/wiki/OutGuess"><strong>OutGuess</strong></a>」。<br>
+果不其然，當該圖片經過 OutGuess 解密後，解出了一段訊息：<br>
+「 <em><strong>Here is a book code. To find the book, and more information, go to http://www.reddit.com/r/a2e7j6ic78h0j/. 1:20, 2:3, 3:5, 4:20, 5:5, 6:53, 7:1. (這是 Book code。找到書，及更多資訊，訪問 http://www.reddit.com/r/a2e7j6ic78h0j/。1:20, 2:3, 3:5, 4:20, 5:5, 6:53, 7:1)</strong></em> 」</p>
+<p>訪問內容中的網址「 <strong>http://www.reddit.com/r/a2e7j6ic78h0j/</strong> 」後，可以看到一堆亂碼：</p>
+<img src="/2020/02/05/Cicada3301/02.png" class="" title="reddit.com">
+<p>其中，除了亂碼外，還可以找到如下兩張圖。而這兩張圖再經過 OutGuess 解密後會出現兩則訊息，該訊息大致上是提供了「<a href="https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86"><strong>非對稱加密</strong></a>」的公鑰給各位，至於原理，在這邊怕離題就不贅述，總之你可以理解成，3301 表示將在未來使用 「 <strong>Private Key (私鑰)</strong> 」加密訊息，大家則可以使用這個訊息內所公佈的「 <strong>Public Key (公鑰)</strong> 」進行解密，進而得知 3301 所想傳達的訊息。有了這樣的機制，就不怕網路上有人偽造 3301 發送假的訊息了。(PS：該公鑰 PGP ID 為：<strong>7A35090F</strong>)</p>
+<p>有興趣了解<strong>非對稱加密</strong>的朋友可以看另一篇我的文章「<a href="../../16/Public-keyCryptography(%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86)"><strong>Public-key Cryptography (非對稱加密)</strong></a>」。</p>
+<img src="/2020/02/05/Cicada3301/03.jpg" class="" title="reddit.com">
+<img src="/2020/02/05/Cicada3301/04.jpg" class="" title="reddit.com">
+<p>故事到了這邊聲明下，由於<strong>解密過程並非本文重點</strong>，前面只是為了讓讀者了解解密過程大約是什麼感覺，之後的過程我就隨意帶過，有興趣的可以上網搜尋相關資訊，目前 3301 所釋出的題目大致上都已經有解答出現在網絡上囉。</p>
+<p>總之在經過各道題目解密後，最後引導你打向一通電話，電話的另一頭是一段錄音，其內容為：<br>
+「 <em><strong>Very good. You have done well. There are three prime numbers associated with the original final.jpg image. 3301 is one of them. You will have to find the other two. Multiply all three of these numbers together and add a 「.com」 to find the next step. Good luck. Goodbye.<br>
+(很好，你做的非常好。有三個質數與原始的 final.jpg 圖片相關。「3301」是其中一個。你必須找到其他兩個。將三個數字相乘，然後加上「.com」來進到下一步，祝你好運，再見。)</strong></em> 」</p>
+<p>在原始的那張訊息圖片，其寬為<strong> 503 px</strong>，高為<strong> 509 px</strong>，「503」、「509」皆為質數，與 3301 相乘後，得出「 <strong>845145127</strong> 」，加上「 <strong>.com</strong> 」後訪問該網址，會看到一個像是「 <strong>蟬</strong> 」的圖片，並且下方有個倒數計時器，該圖片再使用 OutGuess 解密後，得出的訊息表示，你需要在 <strong>1 月 9 日 17:00</strong> 再次回來查看。</p>
+<img src="/2020/02/05/Cicada3301/ps_01.jpeg" class="" width="3301">
+<hr>
+<p><strong>2012 年 1 月 9 日 17:00</strong>，倒數計時結束，網頁顯示出了<strong> 14</strong> 個座標，這些座標分散至<strong> 5</strong> 個國家，實際到了這些座標點後，會看到如下方圖片這樣的紙被張貼在電線杆上：</p>
+<img src="/2020/02/05/Cicada3301/05.jpg" class="" width="3301">
+<img src="/2020/02/05/Cicada3301/06.jpg" class="" width="3301">
+<img src="/2020/02/05/Cicada3301/07.jpg" class="" width="3301">
+<img src="/2020/02/05/Cicada3301/08.jpg" class="" width="3301">
+<p>掃描圖上的 <a href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%B6%AD%E7%A2%BC"><strong>二維碼</strong></a> 後，就來到了最後一步，解密後得出了一道網址「 <strong>sq6wmgv2zcsrix6t.onion</strong> 」，該網址屬於暗網網址，需要使用如「<a href="https://zh.wikipedia.org/wiki/%E6%B7%B1%E7%BD%91"><strong>Tor Browser (洋蔥瀏覽器)</strong></a>」等特殊瀏覽器來進行訪問，在大家迫不及待的訪問該位址後，網站上卻只有一句話：「 <em><strong>We want the best, not the followers. (我們只要最好，而不是跟風的人。)</strong></em> 」，這邊或許可以理解成，他們只想要前幾個甚至僅僅是第一個訪問該網址的人，要的是最快解出測試題的人。</p>
+<p>直至一個月後，3301 傳出一道如下圖的訊息，內容為：<br>
+「 <em><strong>Hello. We have now found the individuals we sought. Thus our month-long iourney ends. For now. Thank you for your dedication and effort. If you were unable to complete the test, or did not receive an emailm do not despair. There will be more opportunities like this one. Thank you all. - 3301<br>
+P.S. 1041279065871998535982789873959431895640\442510695567564373922695237268242385295908173\9834390370374475764863415203423499357108713631</strong></em> 」。</p>
+<p>其意思大約是「 <strong>哈囉。我們已經找到我們要的人了。我們長達一個月的旅程結束了。現在。感謝你的奉獻與努力。如果你沒完成測試，或者沒有收到電子郵件，請不要失望。會有更多像這樣的機會的。謝謝你們。 - 3301</strong> 」。</p>
+<img src="/2020/02/05/Cicada3301/end_post.jpg" class="" width="3301">
+<hr>
+<p>事情看似告一段落，然而就在隔年…</p>
+<p><strong>2013 年 1 月 4 日</strong>，3301 傳出又要招募的消息，以和去年一樣的方式釋出各種題目。</p>
+<p><strong>2014 年 1 月 4 日</strong>，同樣的釋出招募消息及題目，但這次釋出題目的平台改成了 <a href="https://zh.wikipedia.org/wiki/Twitter"><strong>Twitter (推特)</strong></a> 。(<a href="https://twitter.com/1231507051321" title="Cicada 3301 Twitter帳戶"><strong>@1231507051321</strong></a>)，並且題目指向了一本由他們自己所寫的書，書中內容看似「<a href="https://zh.wikipedia.org/wiki/%E7%9B%A7%E6%81%A9%E5%AD%97%E6%AF%8D"><strong>盧恩字母</strong></a>」，也再次引起各領域的好手注意，但可惜的是，這次真的考倒大家了…</p>
+<p>關於 2014 年那本書所釋出的題目，至今僅被解出一小部份，此後，網絡上就再也沒看到 3301 所發出的消息了，或許是在等待著那本書被解密的一天吧。</p>
+<hr>
+<h3 id="形象">形象</h3>
+<p>「 <strong>Cicada 3301</strong> 」的形象為下圖，一個長得很像「 <strong>蛾</strong> 」的圖案，但「 <strong>Cicada</strong> 」是「 <strong>蟬</strong> 」的意思，所以推測該圖應該是指蟬。<br>
+由於官方並沒有出面說明，所以至於為什麼是「 <strong>蟬</strong> 」，又為什麼是「 <strong>3301</strong> 」，目前無法得知。</p>
+<img src="/2020/02/05/Cicada3301/logo.jpg" class="" width="3301">
+<hr>
+<h3 id="目的">目的</h3>
+<p>釋出的訊息中指出，要找「 <strong>高智商</strong> 」的人，但該組織所找的人不僅僅是「高 <a href="https://zh.wikipedia.org/wiki/%E6%99%BA%E5%95%86"><strong>IQ (智商)</strong></a>」，因為在之後的許多測試中，題目不只 <a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6"><strong>數學</strong></a>、<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6"><strong>密碼學</strong></a>，還有包含像是 <a href="https://zh.wikipedia.org/wiki/%E9%9F%B3%E6%A8%82%E7%90%86%E8%AB%96"><strong>樂理</strong></a>、<a href="https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2"><strong>歷史</strong></a> 等多方面的知識，如果單純只是要找聰明人，那為何還要要求要一堆藝術相關的知識？</p>
+<p>有人開始猜測，這可能是<strong>政府相關的機構</strong>在招收人才，如 <a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80"><strong>NSA (美國國安局)</strong></a>、<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%83%85%E6%8A%A5%E5%B1%80"><strong>CIA (中央情報局)</strong></a> 等，用於<strong>國家的祕密用途</strong>，也有人表示，這可能是 <strong>Google</strong> 之類的大企業招收人才的手段，甚至在<a href="https://zh.wikipedia.org/wiki/%E9%99%B0%E8%AC%80%E8%AB%96"><strong>陰謀論</strong></a>的愛好者中也有人在討論，說這是來自<strong>恐怖份子</strong>的招募。</p>
+<p>由於官方並無透漏任何相關說明，<br>
+<strong>該組織的目的到目前為止還是個問號。</strong></p>
+<hr>
+<h3 id="疑惑">疑惑（？</h3>
+<p>看完上述的故事後，本人有個非常大的疑惑，我也在網上看到許多人提出相同的疑問，在此提出給大家思考看看：</p>
+<p>首先，前面經過這一大堆的測試，而最後卻僅僅是在路邊掃個 QR Code 就結束了！？ 這點很明顯是有問題的吧…<br>
+ 不過畢竟是網路流傳的訊息，多少被經過修改，就不糾結這個問題了，大家看看就好。</p>
+]]></content>
+      <categories>
+        <category>Information (資訊分享)</category>
+      </categories>
+      <tags>
+        <tag>Cicada3301</tag>
+        <tag>Cryptography (密碼學)</tag>
       </tags>
   </entry>
   <entry>
@@ -1903,40 +1903,6 @@ L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀
       </tags>
   </entry>
   <entry>
-    <title>RC 語音 XSS 漏洞</title>
-    <url>/2019/12/23/RC%E8%AA%9E%E9%9F%B3XSS%E6%BC%8F%E6%B4%9E/</url>
-    <content><![CDATA[<span id="more"></span>
-<img src="/2019/12/23/RC%E8%AA%9E%E9%9F%B3XSS%E6%BC%8F%E6%B4%9E/title.jpeg" class="">
-<hr>
-<h3 id="id">ID</h3>
-<p>《ZDID》ZD-2017-00589</p>
-<hr>
-<h3 id="content">Content</h3>
-<p>受測單位：伊凡達科技股份有限公司<br>
-風險評估：中<br>
-漏洞類型：預存式跨站腳本攻擊 (Stored Cross-Site Scripting)<br>
- 通報時間：2017/10/16</p>
-<hr>
-<h3 id="describe">Describe</h3>
-<p>名稱欄位可以被執行腳本，沒有做到字元過濾的防護</p>
-<p>RC 語音的「名稱欄位」中，如果命名為 「 <strong> <code>&quot;&gt;&lt;script&gt;alert('1')&lt;/script&gt;</code> </strong> 」 再進去 &quot;秀場&quot; 系統，則會被執行名稱上的語法，在論壇中也有一樣的問題，甚至可以透過「 <strong> <code>&lt;!--</code> </strong> 」輕鬆註解論壇網頁。</p>
-<hr>
-<h3 id="repair">Repair</h3>
-<p>可禁用敏感字眼，並且最好能在輸出前轉換文字為 html 編碼，這可以大大減少 XSS 的發生。</p>
-<p>防護原則：</p>
-<p><a href="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet" target="_blank">https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a></p>
-]]></content>
-      <categories>
-        <category>Computer Science</category>
-        <category>Security-Flaw (安全漏洞)</category>
-        <category>我的通報</category>
-      </categories>
-      <tags>
-        <tag>ReportedFromMe (我的通報)</tag>
-        <tag>XSS (Cross-Site-Scripting)</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Pi 幣是什麼？數位貨幣「π」到底是韭菜傳說，還是改寫歷史的神話！？</title>
     <url>/2021/01/09/Pi-Coin/</url>
     <content><![CDATA[<p>從 <strong>2020 年 3 月</strong> 開始，全球開始發起關於「<strong>Pi Coin</strong>」的熱潮，當在實際找尋資料時發現，支持與反對的聲音勢不兩立。而這讓幣圈玩家炸了鍋討論的「<strong>π</strong>」到底是什麼？</p>
@@ -2143,6 +2109,40 @@ While Pi seeks to avoid extreme concentrations of wealth, the network also seeks
       <tags>
         <tag>Bitcoin (比特幣)</tag>
         <tag>Digital-Currency (數位貨幣)</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RC 語音 XSS 漏洞</title>
+    <url>/2019/12/23/RC%E8%AA%9E%E9%9F%B3XSS%E6%BC%8F%E6%B4%9E/</url>
+    <content><![CDATA[<span id="more"></span>
+<img src="/2019/12/23/RC%E8%AA%9E%E9%9F%B3XSS%E6%BC%8F%E6%B4%9E/title.jpeg" class="">
+<hr>
+<h3 id="id">ID</h3>
+<p>《ZDID》ZD-2017-00589</p>
+<hr>
+<h3 id="content">Content</h3>
+<p>受測單位：伊凡達科技股份有限公司<br>
+風險評估：中<br>
+漏洞類型：預存式跨站腳本攻擊 (Stored Cross-Site Scripting)<br>
+ 通報時間：2017/10/16</p>
+<hr>
+<h3 id="describe">Describe</h3>
+<p>名稱欄位可以被執行腳本，沒有做到字元過濾的防護</p>
+<p>RC 語音的「名稱欄位」中，如果命名為 「 <strong> <code>&quot;&gt;&lt;script&gt;alert('1')&lt;/script&gt;</code> </strong> 」 再進去 &quot;秀場&quot; 系統，則會被執行名稱上的語法，在論壇中也有一樣的問題，甚至可以透過「 <strong> <code>&lt;!--</code> </strong> 」輕鬆註解論壇網頁。</p>
+<hr>
+<h3 id="repair">Repair</h3>
+<p>可禁用敏感字眼，並且最好能在輸出前轉換文字為 html 編碼，這可以大大減少 XSS 的發生。</p>
+<p>防護原則：</p>
+<p><a href="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet" target="_blank">https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a></p>
+]]></content>
+      <categories>
+        <category>Computer Science</category>
+        <category>Security-Flaw (安全漏洞)</category>
+        <category>我的通報</category>
+      </categories>
+      <tags>
+        <tag>ReportedFromMe (我的通報)</tag>
+        <tag>XSS (Cross-Site-Scripting)</tag>
       </tags>
   </entry>
   <entry>
