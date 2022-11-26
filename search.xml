@@ -780,6 +780,51 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
       </tags>
   </entry>
   <entry>
+    <title>匿名交友 — HeyMandi 網頁版 XSS</title>
+    <url>/2019/12/22/HeyMandi%E7%B6%B2%E9%A0%81%E7%89%88XSS/</url>
+    <content><![CDATA[<span id="more"></span>
+<hr>
+<h4 id="id">ID</h4>
+<p>《ZDID》ZD-2018-01160</p>
+<hr>
+<h4 id="content">Content</h4>
+<p>受測單位：HeyMandi<br>
+ 風險評估：低<br>
+漏洞類型：預存式跨站腳本攻擊 (Stored Cross-Site Scripting)<br>
+ 通報時間：2018/10/18</p>
+<hr>
+<h4 id="payload">PayLoad</h4>
+<p><s>https://chat.heymandi.com/chat</s></p>
+<hr>
+<h4 id="describe">Describe</h4>
+<p>若聊天室內的雙方都是使用 HeyMandi APP，又或者雙方都是使用 Web 版的話，則不會觸發該漏洞。<br>代碼被執行的問題發生在攻擊方為 APP 版，受攻擊方為網頁版的情境下 (網址：https://chat.heymandi.com/chat)。</p>
+<img src="01.jpeg" style="width:50%;">
+<p>在此情境下 APP 方所發送的文字內涵有的 Script 並<strong>不會</strong>被有效過濾，因此語法可在另一端，也就是 Web 端上被執行。</p>
+<img src="02.jpeg" style="width:90%;">
+<p>滲透的一開始 (上圖)，測試代碼 &quot;<strong> <code>&lt;script&gt;alert(1)&lt;/script&gt;</code> </strong>&quot;，而結果是該代碼並不會被執行，但<strong> Script 標籤的確有被植入成功</strong>。</p>
+<img src="03.jpeg" style="width:50%;">
+<p>因此將代碼換成了 &quot;<strong> <code>&lt;img src=&quot;&quot; onerror=alert(1)&gt;</code> </strong>&quot; 做第二次測試。</p>
+<img src="04.jpeg" style="width:50%;">
+<p>結果成功的執行出 alert 腳本。(如上圖)<br>
+ 另外包含 &quot;<strong> <code>&lt;h1&gt;</code> </strong>&quot;、&quot;<strong> <code>&lt;b&gt;</code> </strong>&quot; 等標籤，經測試也是可被執行的，以及其他大量未測試的語法，都可能含有被執行的風險。</p>
+<hr>
+<h4 id="repair">Repair</h4>
+<p>在 Web 端傳送至 APP 端的語法會被轉為 HTML 編碼，<br>
+同理可將 APP 端傳送至 Web 端的語法也轉為 HTML 編碼以達到過濾語法的效果。</p>
+<p>防護原則：<br>
+<a href="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet">https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a></p>
+]]></content>
+      <categories>
+        <category>Computer Science</category>
+        <category>Security-Flaw (安全漏洞)</category>
+        <category>我的通報</category>
+      </categories>
+      <tags>
+        <tag>ReportedFromMe (我的通報)</tag>
+        <tag>XSS (Cross-Site-Scripting)</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>(18+) Dark Web 暗網｜人口販賣、兒童色情、殺人直播？電影情節真實上演！</title>
     <url>/2020/02/17/DarkWeb/</url>
     <content><![CDATA[<p>網絡盛行的年代，<strong>你真的認為你夠熟悉網絡嗎？<strong>在這龐大的網絡世界裡，有些地方你沒去過，也</strong>一輩子都不該去</strong>。本篇將會介紹你可能不知道的地下網絡 - 「 <strong>暗網</strong> 」。</p>
@@ -841,51 +886,6 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
         <tag>Dark Web (暗網)</tag>
         <tag>Tor (洋蔥路由)</tag>
         <tag>Bitcoin (比特幣)</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>匿名交友 — HeyMandi 網頁版 XSS</title>
-    <url>/2019/12/22/HeyMandi%E7%B6%B2%E9%A0%81%E7%89%88XSS/</url>
-    <content><![CDATA[<span id="more"></span>
-<hr>
-<h4 id="id">ID</h4>
-<p>《ZDID》ZD-2018-01160</p>
-<hr>
-<h4 id="content">Content</h4>
-<p>受測單位：HeyMandi<br>
- 風險評估：低<br>
-漏洞類型：預存式跨站腳本攻擊 (Stored Cross-Site Scripting)<br>
- 通報時間：2018/10/18</p>
-<hr>
-<h4 id="payload">PayLoad</h4>
-<p><s>https://chat.heymandi.com/chat</s></p>
-<hr>
-<h4 id="describe">Describe</h4>
-<p>若聊天室內的雙方都是使用 HeyMandi APP，又或者雙方都是使用 Web 版的話，則不會觸發該漏洞。<br>代碼被執行的問題發生在攻擊方為 APP 版，受攻擊方為網頁版的情境下 (網址：https://chat.heymandi.com/chat)。</p>
-<img src="01.jpeg" style="width:50%;">
-<p>在此情境下 APP 方所發送的文字內涵有的 Script 並<strong>不會</strong>被有效過濾，因此語法可在另一端，也就是 Web 端上被執行。</p>
-<img src="02.jpeg" style="width:90%;">
-<p>滲透的一開始 (上圖)，測試代碼 &quot;<strong> <code>&lt;script&gt;alert(1)&lt;/script&gt;</code> </strong>&quot;，而結果是該代碼並不會被執行，但<strong> Script 標籤的確有被植入成功</strong>。</p>
-<img src="03.jpeg" style="width:50%;">
-<p>因此將代碼換成了 &quot;<strong> <code>&lt;img src=&quot;&quot; onerror=alert(1)&gt;</code> </strong>&quot; 做第二次測試。</p>
-<img src="04.jpeg" style="width:50%;">
-<p>結果成功的執行出 alert 腳本。(如上圖)<br>
- 另外包含 &quot;<strong> <code>&lt;h1&gt;</code> </strong>&quot;、&quot;<strong> <code>&lt;b&gt;</code> </strong>&quot; 等標籤，經測試也是可被執行的，以及其他大量未測試的語法，都可能含有被執行的風險。</p>
-<hr>
-<h4 id="repair">Repair</h4>
-<p>在 Web 端傳送至 APP 端的語法會被轉為 HTML 編碼，<br>
-同理可將 APP 端傳送至 Web 端的語法也轉為 HTML 編碼以達到過濾語法的效果。</p>
-<p>防護原則：<br>
-<a href="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet">https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a></p>
-]]></content>
-      <categories>
-        <category>Computer Science</category>
-        <category>Security-Flaw (安全漏洞)</category>
-        <category>我的通報</category>
-      </categories>
-      <tags>
-        <tag>ReportedFromMe (我的通報)</tag>
-        <tag>XSS (Cross-Site-Scripting)</tag>
       </tags>
   </entry>
   <entry>
