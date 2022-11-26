@@ -3,11 +3,11 @@
   <title>AlpacaTech 羊駝科技</title>
   
   <subtitle>AlpacaTech</subtitle>
-  <link href="https://tech.alpaca0x0.com/atom.xml" rel="self"/>
+  <link href="https://tech.alpaca.tw/atom.xml" rel="self"/>
   
-  <link href="https://tech.alpaca0x0.com/"/>
+  <link href="https://tech.alpaca.tw/"/>
   <updated>2022-03-17T04:53:47.527Z</updated>
-  <id>https://tech.alpaca0x0.com/</id>
+  <id>https://tech.alpaca.tw/</id>
   
   <author>
     <name>Alpaca0x0</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>八二法則 真正的意義是什麼？</title>
-    <link href="https://tech.alpaca0x0.com/2021/06/13/Pareto-Principle/"/>
-    <id>https://tech.alpaca0x0.com/2021/06/13/Pareto-Principle/</id>
+    <link href="https://tech.alpaca.tw/2021/06/13/Pareto-Principle/"/>
+    <id>https://tech.alpaca.tw/2021/06/13/Pareto-Principle/</id>
     <published>2021-06-13T06:59:27.000Z</published>
     <updated>2022-03-17T04:53:47.527Z</updated>
     
@@ -30,15 +30,15 @@
     
     
     
-    <category term="Concept (概念分享)" scheme="https://tech.alpaca0x0.com/categories/Concept-%E6%A6%82%E5%BF%B5%E5%88%86%E4%BA%AB/"/>
+    <category term="Concept (概念分享)" scheme="https://tech.alpaca.tw/categories/Concept-%E6%A6%82%E5%BF%B5%E5%88%86%E4%BA%AB/"/>
     
     
   </entry>
   
   <entry>
     <title>一招啟動 Windows 10 「終極效能」！讓你的電腦瞬間活起來！</title>
-    <link href="https://tech.alpaca0x0.com/2021/04/06/Windows10-Ultimate-Performance/"/>
-    <id>https://tech.alpaca0x0.com/2021/04/06/Windows10-Ultimate-Performance/</id>
+    <link href="https://tech.alpaca.tw/2021/04/06/Windows10-Ultimate-Performance/"/>
+    <id>https://tech.alpaca.tw/2021/04/06/Windows10-Ultimate-Performance/</id>
     <published>2021-04-06T02:48:46.000Z</published>
     <updated>2022-03-17T04:53:47.563Z</updated>
     
@@ -49,17 +49,17 @@
     
     
     
-    <category term="Note (技巧分享)" scheme="https://tech.alpaca0x0.com/categories/Note-%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB/"/>
+    <category term="Note (技巧分享)" scheme="https://tech.alpaca.tw/categories/Note-%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Windows 10" scheme="https://tech.alpaca0x0.com/tags/Windows-10/"/>
+    <category term="Windows 10" scheme="https://tech.alpaca.tw/tags/Windows-10/"/>
     
   </entry>
   
   <entry>
     <title>用手機賺 Pi 幣，趁現在還免費趕快挖！(詳細圖文教學)</title>
-    <link href="https://tech.alpaca0x0.com/2021/01/11/Pi-Coin-APP/"/>
-    <id>https://tech.alpaca0x0.com/2021/01/11/Pi-Coin-APP/</id>
+    <link href="https://tech.alpaca.tw/2021/01/11/Pi-Coin-APP/"/>
+    <id>https://tech.alpaca.tw/2021/01/11/Pi-Coin-APP/</id>
     <published>2021-01-11T08:13:44.000Z</published>
     <updated>2022-03-17T04:53:47.527Z</updated>
     
@@ -70,19 +70,19 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Bitcoin (比特幣)" scheme="https://tech.alpaca0x0.com/tags/Bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3/"/>
+    <category term="Bitcoin (比特幣)" scheme="https://tech.alpaca.tw/tags/Bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3/"/>
     
-    <category term="Digital-Currency (數位貨幣)" scheme="https://tech.alpaca0x0.com/tags/Digital-Currency-%E6%95%B8%E4%BD%8D%E8%B2%A8%E5%B9%A3/"/>
+    <category term="Digital-Currency (數位貨幣)" scheme="https://tech.alpaca.tw/tags/Digital-Currency-%E6%95%B8%E4%BD%8D%E8%B2%A8%E5%B9%A3/"/>
     
   </entry>
   
   <entry>
     <title>Pi 幣是什麼？數位貨幣「π」到底是韭菜傳說，還是改寫歷史的神話！？</title>
-    <link href="https://tech.alpaca0x0.com/2021/01/09/Pi-Coin/"/>
-    <id>https://tech.alpaca0x0.com/2021/01/09/Pi-Coin/</id>
+    <link href="https://tech.alpaca.tw/2021/01/09/Pi-Coin/"/>
+    <id>https://tech.alpaca.tw/2021/01/09/Pi-Coin/</id>
     <published>2021-01-08T16:03:16.000Z</published>
     <updated>2022-03-17T04:53:47.535Z</updated>
     
@@ -93,19 +93,19 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Bitcoin (比特幣)" scheme="https://tech.alpaca0x0.com/tags/Bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3/"/>
+    <category term="Bitcoin (比特幣)" scheme="https://tech.alpaca.tw/tags/Bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3/"/>
     
-    <category term="Digital-Currency (數位貨幣)" scheme="https://tech.alpaca0x0.com/tags/Digital-Currency-%E6%95%B8%E4%BD%8D%E8%B2%A8%E5%B9%A3/"/>
+    <category term="Digital-Currency (數位貨幣)" scheme="https://tech.alpaca.tw/tags/Digital-Currency-%E6%95%B8%E4%BD%8D%E8%B2%A8%E5%B9%A3/"/>
     
   </entry>
   
   <entry>
     <title>關於減肥｜間歇式運動</title>
-    <link href="https://tech.alpaca0x0.com/2021/01/08/About-Lose-Weight/"/>
-    <id>https://tech.alpaca0x0.com/2021/01/08/About-Lose-Weight/</id>
+    <link href="https://tech.alpaca.tw/2021/01/08/About-Lose-Weight/"/>
+    <id>https://tech.alpaca.tw/2021/01/08/About-Lose-Weight/</id>
     <published>2021-01-08T15:49:19.000Z</published>
     <updated>2022-03-17T04:53:47.419Z</updated>
     
@@ -116,15 +116,15 @@
     
     
     
-    <category term="Popular-Science (科普)" scheme="https://tech.alpaca0x0.com/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
+    <category term="Popular-Science (科普)" scheme="https://tech.alpaca.tw/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
     
     
   </entry>
   
   <entry>
     <title>匿名安全的通訊 - 「XMPP」</title>
-    <link href="https://tech.alpaca0x0.com/2020/09/04/XMPP/"/>
-    <id>https://tech.alpaca0x0.com/2020/09/04/XMPP/</id>
+    <link href="https://tech.alpaca.tw/2020/09/04/XMPP/"/>
+    <id>https://tech.alpaca.tw/2020/09/04/XMPP/</id>
     <published>2020-09-04T14:07:10.000Z</published>
     <updated>2022-03-17T04:53:47.571Z</updated>
     
@@ -135,17 +135,17 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Cyber Security (網絡安全)" scheme="https://tech.alpaca0x0.com/tags/Cyber-Security-%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8/"/>
+    <category term="Cyber Security (網絡安全)" scheme="https://tech.alpaca.tw/tags/Cyber-Security-%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
   <entry>
     <title>(18+) 如何進入「暗網」？</title>
-    <link href="https://tech.alpaca0x0.com/2020/09/01/How-To-Enter-The-DarkWeb/"/>
-    <id>https://tech.alpaca0x0.com/2020/09/01/How-To-Enter-The-DarkWeb/</id>
+    <link href="https://tech.alpaca.tw/2020/09/01/How-To-Enter-The-DarkWeb/"/>
+    <id>https://tech.alpaca.tw/2020/09/01/How-To-Enter-The-DarkWeb/</id>
     <published>2020-09-01T11:30:27.000Z</published>
     <updated>2022-03-17T04:53:47.483Z</updated>
     
@@ -160,23 +160,23 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="18+" scheme="https://tech.alpaca0x0.com/tags/18/"/>
+    <category term="18+" scheme="https://tech.alpaca.tw/tags/18/"/>
     
-    <category term="Deep Web (深網)" scheme="https://tech.alpaca0x0.com/tags/Deep-Web-%E6%B7%B1%E7%B6%B2/"/>
+    <category term="Deep Web (深網)" scheme="https://tech.alpaca.tw/tags/Deep-Web-%E6%B7%B1%E7%B6%B2/"/>
     
-    <category term="Dark Web (暗網)" scheme="https://tech.alpaca0x0.com/tags/Dark-Web-%E6%9A%97%E7%B6%B2/"/>
+    <category term="Dark Web (暗網)" scheme="https://tech.alpaca.tw/tags/Dark-Web-%E6%9A%97%E7%B6%B2/"/>
     
-    <category term="Tor (洋蔥路由)" scheme="https://tech.alpaca0x0.com/tags/Tor-%E6%B4%8B%E8%94%A5%E8%B7%AF%E7%94%B1/"/>
+    <category term="Tor (洋蔥路由)" scheme="https://tech.alpaca.tw/tags/Tor-%E6%B4%8B%E8%94%A5%E8%B7%AF%E7%94%B1/"/>
     
   </entry>
   
   <entry>
     <title>拋棄式信箱、手機號碼｜匿名接收簡訊，避開垃圾郵件及騷擾！</title>
-    <link href="https://tech.alpaca0x0.com/2020/08/21/One-Off-Service/"/>
-    <id>https://tech.alpaca0x0.com/2020/08/21/One-Off-Service/</id>
+    <link href="https://tech.alpaca.tw/2020/08/21/One-Off-Service/"/>
+    <id>https://tech.alpaca.tw/2020/08/21/One-Off-Service/</id>
     <published>2020-08-21T11:49:22.000Z</published>
     <updated>2022-03-17T04:53:47.519Z</updated>
     
@@ -188,15 +188,15 @@
     
     
     
-    <category term="Service (服務分享)" scheme="https://tech.alpaca0x0.com/categories/Service-%E6%9C%8D%E5%8B%99%E5%88%86%E4%BA%AB/"/>
+    <category term="Service (服務分享)" scheme="https://tech.alpaca.tw/categories/Service-%E6%9C%8D%E5%8B%99%E5%88%86%E4%BA%AB/"/>
     
     
   </entry>
   
   <entry>
     <title>五種網路賺錢的方法！在家也能兼差為自己多一份薪水！</title>
-    <link href="https://tech.alpaca0x0.com/2020/08/07/Make-Money-Online/"/>
-    <id>https://tech.alpaca0x0.com/2020/08/07/Make-Money-Online/</id>
+    <link href="https://tech.alpaca.tw/2020/08/07/Make-Money-Online/"/>
+    <id>https://tech.alpaca.tw/2020/08/07/Make-Money-Online/</id>
     <published>2020-08-07T14:18:57.000Z</published>
     <updated>2022-03-17T04:53:47.487Z</updated>
     
@@ -209,15 +209,15 @@
     
     
     
-    <category term="Concept (概念分享)" scheme="https://tech.alpaca0x0.com/categories/Concept-%E6%A6%82%E5%BF%B5%E5%88%86%E4%BA%AB/"/>
+    <category term="Concept (概念分享)" scheme="https://tech.alpaca.tw/categories/Concept-%E6%A6%82%E5%BF%B5%E5%88%86%E4%BA%AB/"/>
     
     
   </entry>
   
   <entry>
     <title>打檔機車 原理解說｜看完馬上了解打檔車原理！</title>
-    <link href="https://tech.alpaca0x0.com/2020/07/20/Motorcycle/"/>
-    <id>https://tech.alpaca0x0.com/2020/07/20/Motorcycle/</id>
+    <link href="https://tech.alpaca.tw/2020/07/20/Motorcycle/"/>
+    <id>https://tech.alpaca.tw/2020/07/20/Motorcycle/</id>
     <published>2020-07-20T13:04:17.000Z</published>
     <updated>2022-03-17T04:53:47.499Z</updated>
     
@@ -229,15 +229,15 @@
     
     
     
-    <category term="Popular-Science (科普)" scheme="https://tech.alpaca0x0.com/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
+    <category term="Popular-Science (科普)" scheme="https://tech.alpaca.tw/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
     
     
   </entry>
   
   <entry>
     <title>(18+) N번방 사건 (N號房事件) 懶人包</title>
-    <link href="https://tech.alpaca0x0.com/2020/03/25/Korea-N-Room/"/>
-    <id>https://tech.alpaca0x0.com/2020/03/25/Korea-N-Room/</id>
+    <link href="https://tech.alpaca.tw/2020/03/25/Korea-N-Room/"/>
+    <id>https://tech.alpaca.tw/2020/03/25/Korea-N-Room/</id>
     <published>2020-03-25T04:58:17.000Z</published>
     <updated>2022-03-17T04:53:47.483Z</updated>
     
@@ -248,17 +248,17 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="18+" scheme="https://tech.alpaca0x0.com/tags/18/"/>
+    <category term="18+" scheme="https://tech.alpaca.tw/tags/18/"/>
     
   </entry>
   
   <entry>
     <title>菸 (Cigarette) 的種類介紹</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/28/Cigarette/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/28/Cigarette/</id>
+    <link href="https://tech.alpaca.tw/2020/02/28/Cigarette/"/>
+    <id>https://tech.alpaca.tw/2020/02/28/Cigarette/</id>
     <published>2020-02-28T13:55:51.000Z</published>
     <updated>2022-03-17T04:57:59.607Z</updated>
     
@@ -269,15 +269,15 @@
     
     
     
-    <category term="Popular-Science (科普)" scheme="https://tech.alpaca0x0.com/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
+    <category term="Popular-Science (科普)" scheme="https://tech.alpaca.tw/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
     
     
   </entry>
   
   <entry>
     <title>PRISM (稜鏡計劃)｜政府監控人民網絡的陰謀！</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/27/PRISM(%E7%A8%9C%E9%8F%A1%E8%A8%88%E5%8A%83)/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/27/PRISM(%E7%A8%9C%E9%8F%A1%E8%A8%88%E5%8A%83)/</id>
+    <link href="https://tech.alpaca.tw/2020/02/27/PRISM(%E7%A8%9C%E9%8F%A1%E8%A8%88%E5%8A%83)/"/>
+    <id>https://tech.alpaca.tw/2020/02/27/PRISM(%E7%A8%9C%E9%8F%A1%E8%A8%88%E5%8A%83)/</id>
     <published>2020-02-27T05:37:56.000Z</published>
     <updated>2022-03-17T04:53:47.523Z</updated>
     
@@ -288,19 +288,19 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Hacker (駭客)" scheme="https://tech.alpaca0x0.com/tags/Hacker-%E9%A7%AD%E5%AE%A2/"/>
+    <category term="Hacker (駭客)" scheme="https://tech.alpaca.tw/tags/Hacker-%E9%A7%AD%E5%AE%A2/"/>
     
-    <category term="CIA (美國中央情報局)" scheme="https://tech.alpaca0x0.com/tags/CIA-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80/"/>
+    <category term="CIA (美國中央情報局)" scheme="https://tech.alpaca.tw/tags/CIA-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80/"/>
     
   </entry>
   
   <entry>
     <title>Edward Joseph Snowden (愛德華·約瑟夫·史諾登)｜賭上自己的一生，只為揭露政府祕密監控人民的醜聞！</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/27/Snowden/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/27/Snowden/</id>
+    <link href="https://tech.alpaca.tw/2020/02/27/Snowden/"/>
+    <id>https://tech.alpaca.tw/2020/02/27/Snowden/</id>
     <published>2020-02-27T05:36:56.000Z</published>
     <updated>2022-03-17T04:53:47.535Z</updated>
     
@@ -311,19 +311,19 @@
     
     
     
-    <category term="Person (人物分享)" scheme="https://tech.alpaca0x0.com/categories/Person-%E4%BA%BA%E7%89%A9%E5%88%86%E4%BA%AB/"/>
+    <category term="Person (人物分享)" scheme="https://tech.alpaca.tw/categories/Person-%E4%BA%BA%E7%89%A9%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Hacker (駭客)" scheme="https://tech.alpaca0x0.com/tags/Hacker-%E9%A7%AD%E5%AE%A2/"/>
+    <category term="Hacker (駭客)" scheme="https://tech.alpaca.tw/tags/Hacker-%E9%A7%AD%E5%AE%A2/"/>
     
-    <category term="CIA (美國中央情報局)" scheme="https://tech.alpaca0x0.com/tags/CIA-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80/"/>
+    <category term="CIA (美國中央情報局)" scheme="https://tech.alpaca.tw/tags/CIA-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80/"/>
     
   </entry>
   
   <entry>
     <title>(18+) 浮出水面的 4 個知名暗網</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/18/DarkWeb-FamousWeb/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/18/DarkWeb-FamousWeb/</id>
+    <link href="https://tech.alpaca.tw/2020/02/18/DarkWeb-FamousWeb/"/>
+    <id>https://tech.alpaca.tw/2020/02/18/DarkWeb-FamousWeb/</id>
     <published>2020-02-18T01:25:40.000Z</published>
     <updated>2022-03-17T04:53:47.471Z</updated>
     
@@ -334,21 +334,21 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="18+" scheme="https://tech.alpaca0x0.com/tags/18/"/>
+    <category term="18+" scheme="https://tech.alpaca.tw/tags/18/"/>
     
-    <category term="Deep Web (深網)" scheme="https://tech.alpaca0x0.com/tags/Deep-Web-%E6%B7%B1%E7%B6%B2/"/>
+    <category term="Deep Web (深網)" scheme="https://tech.alpaca.tw/tags/Deep-Web-%E6%B7%B1%E7%B6%B2/"/>
     
-    <category term="Dark Web (暗網)" scheme="https://tech.alpaca0x0.com/tags/Dark-Web-%E6%9A%97%E7%B6%B2/"/>
+    <category term="Dark Web (暗網)" scheme="https://tech.alpaca.tw/tags/Dark-Web-%E6%9A%97%E7%B6%B2/"/>
     
   </entry>
   
   <entry>
     <title>(18+) Dark Web 暗網｜人口販賣、兒童色情、殺人直播？電影情節真實上演！</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/17/DarkWeb/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/17/DarkWeb/</id>
+    <link href="https://tech.alpaca.tw/2020/02/17/DarkWeb/"/>
+    <id>https://tech.alpaca.tw/2020/02/17/DarkWeb/</id>
     <published>2020-02-17T14:22:58.000Z</published>
     <updated>2022-03-17T04:53:47.479Z</updated>
     
@@ -359,25 +359,25 @@
     
     
     
-    <category term="Popular-Science (科普)" scheme="https://tech.alpaca0x0.com/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
+    <category term="Popular-Science (科普)" scheme="https://tech.alpaca.tw/categories/Popular-Science-%E7%A7%91%E6%99%AE/"/>
     
     
-    <category term="18+" scheme="https://tech.alpaca0x0.com/tags/18/"/>
+    <category term="18+" scheme="https://tech.alpaca.tw/tags/18/"/>
     
-    <category term="Deep Web (深網)" scheme="https://tech.alpaca0x0.com/tags/Deep-Web-%E6%B7%B1%E7%B6%B2/"/>
+    <category term="Deep Web (深網)" scheme="https://tech.alpaca.tw/tags/Deep-Web-%E6%B7%B1%E7%B6%B2/"/>
     
-    <category term="Dark Web (暗網)" scheme="https://tech.alpaca0x0.com/tags/Dark-Web-%E6%9A%97%E7%B6%B2/"/>
+    <category term="Dark Web (暗網)" scheme="https://tech.alpaca.tw/tags/Dark-Web-%E6%9A%97%E7%B6%B2/"/>
     
-    <category term="Tor (洋蔥路由)" scheme="https://tech.alpaca0x0.com/tags/Tor-%E6%B4%8B%E8%94%A5%E8%B7%AF%E7%94%B1/"/>
+    <category term="Tor (洋蔥路由)" scheme="https://tech.alpaca.tw/tags/Tor-%E6%B4%8B%E8%94%A5%E8%B7%AF%E7%94%B1/"/>
     
-    <category term="Bitcoin (比特幣)" scheme="https://tech.alpaca0x0.com/tags/Bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3/"/>
+    <category term="Bitcoin (比特幣)" scheme="https://tech.alpaca.tw/tags/Bitcoin-%E6%AF%94%E7%89%B9%E5%B9%A3/"/>
     
   </entry>
   
   <entry>
     <title>(18+) Coulrophobia (小丑恐懼症)｜本該帶給人們歡笑的角色，卻帶來恐懼。</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/08/Coulrophobia-%E5%B0%8F%E4%B8%91%E6%81%90%E6%87%BC%E7%97%87/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/08/Coulrophobia-%E5%B0%8F%E4%B8%91%E6%81%90%E6%87%BC%E7%97%87/</id>
+    <link href="https://tech.alpaca.tw/2020/02/08/Coulrophobia-%E5%B0%8F%E4%B8%91%E6%81%90%E6%87%BC%E7%97%87/"/>
+    <id>https://tech.alpaca.tw/2020/02/08/Coulrophobia-%E5%B0%8F%E4%B8%91%E6%81%90%E6%87%BC%E7%97%87/</id>
     <published>2020-02-08T15:45:53.000Z</published>
     <updated>2022-03-17T04:53:47.439Z</updated>
     
@@ -388,21 +388,21 @@
     
     
     
-    <category term="Learning (學習筆記)" scheme="https://tech.alpaca0x0.com/categories/Learning-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/"/>
+    <category term="Learning (學習筆記)" scheme="https://tech.alpaca.tw/categories/Learning-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/"/>
     
-    <category term="Psychology" scheme="https://tech.alpaca0x0.com/categories/Learning-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/Psychology/"/>
+    <category term="Psychology" scheme="https://tech.alpaca.tw/categories/Learning-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/Psychology/"/>
     
     
-    <category term="18+" scheme="https://tech.alpaca0x0.com/tags/18/"/>
+    <category term="18+" scheme="https://tech.alpaca.tw/tags/18/"/>
     
-    <category term="Phobia (恐懼症)" scheme="https://tech.alpaca0x0.com/tags/Phobia-%E6%81%90%E6%87%BC%E7%97%87/"/>
+    <category term="Phobia (恐懼症)" scheme="https://tech.alpaca.tw/tags/Phobia-%E6%81%90%E6%87%BC%E7%97%87/"/>
     
   </entry>
   
   <entry>
     <title>Cicada 3301 (蟬 3301)｜一個至今仍充滿謎團的神秘組織</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/05/Cicada3301/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/05/Cicada3301/</id>
+    <link href="https://tech.alpaca.tw/2020/02/05/Cicada3301/"/>
+    <id>https://tech.alpaca.tw/2020/02/05/Cicada3301/</id>
     <published>2020-02-05T09:52:50.000Z</published>
     <updated>2022-03-17T04:53:47.435Z</updated>
     
@@ -413,19 +413,19 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Cicada3301" scheme="https://tech.alpaca0x0.com/tags/Cicada3301/"/>
+    <category term="Cicada3301" scheme="https://tech.alpaca.tw/tags/Cicada3301/"/>
     
-    <category term="Cryptography (密碼學)" scheme="https://tech.alpaca0x0.com/tags/Cryptography-%E5%AF%86%E7%A2%BC%E5%AD%B8/"/>
+    <category term="Cryptography (密碼學)" scheme="https://tech.alpaca.tw/tags/Cryptography-%E5%AF%86%E7%A2%BC%E5%AD%B8/"/>
     
   </entry>
   
   <entry>
     <title>Anonymous 匿名者｜恐怖份子？神秘的駭客組織？</title>
-    <link href="https://tech.alpaca0x0.com/2020/02/04/Anonymous/"/>
-    <id>https://tech.alpaca0x0.com/2020/02/04/Anonymous/</id>
+    <link href="https://tech.alpaca.tw/2020/02/04/Anonymous/"/>
+    <id>https://tech.alpaca.tw/2020/02/04/Anonymous/</id>
     <published>2020-02-04T14:11:14.000Z</published>
     <updated>2022-03-17T04:53:47.419Z</updated>
     
@@ -436,19 +436,19 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Anonymous (匿名者)" scheme="https://tech.alpaca0x0.com/tags/Anonymous-%E5%8C%BF%E5%90%8D%E8%80%85/"/>
+    <category term="Anonymous (匿名者)" scheme="https://tech.alpaca.tw/tags/Anonymous-%E5%8C%BF%E5%90%8D%E8%80%85/"/>
     
-    <category term="Hacker (駭客)" scheme="https://tech.alpaca0x0.com/tags/Hacker-%E9%A7%AD%E5%AE%A2/"/>
+    <category term="Hacker (駭客)" scheme="https://tech.alpaca.tw/tags/Hacker-%E9%A7%AD%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>武漢肺炎 (Wuhan Pneumonia)｜天佑武漢，天佑中國，天佑世界。</title>
-    <link href="https://tech.alpaca0x0.com/2020/01/30/Covid-19-Pneumonia/"/>
-    <id>https://tech.alpaca0x0.com/2020/01/30/Covid-19-Pneumonia/</id>
+    <link href="https://tech.alpaca.tw/2020/01/30/Covid-19-Pneumonia/"/>
+    <id>https://tech.alpaca.tw/2020/01/30/Covid-19-Pneumonia/</id>
     <published>2020-01-30T14:07:00.000Z</published>
     <updated>2022-03-17T04:53:47.467Z</updated>
     
@@ -460,7 +460,7 @@
     
     
     
-    <category term="Information (資訊分享)" scheme="https://tech.alpaca0x0.com/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
+    <category term="Information (資訊分享)" scheme="https://tech.alpaca.tw/categories/Information-%E8%B3%87%E8%A8%8A%E5%88%86%E4%BA%AB/"/>
     
     
   </entry>
