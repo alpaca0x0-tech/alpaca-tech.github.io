@@ -100,7 +100,7 @@ he is best known to the general public for his mass–energy equivalence formula
 <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Read More… (Wiki)</a></p>
 ]]></content>
       <categories>
-        <category>Person (人物分享)</category>
+        <category>人物分享</category>
       </categories>
       <tags>
         <tag>Science (科學)</tag>
@@ -133,7 +133,7 @@ he is best known to the general public for his mass–energy equivalence formula
 <p>我自己蒐集了許多關於減肥的資料，而這些必須搭配正確的<strong>健康知識</strong>及<strong>觀念</strong>，將其中<strong>錯誤的方法</strong>找出並<strong>排除</strong>，用對方法比什麼都來的更重要，正確的運動觀念為基礎下所建立的良好運動習慣，不僅可以<strong>健身</strong>，<strong>塑造身材</strong>，也可以使人<strong>快樂、注意力提高、紓解壓力</strong>，運動的過程會讓人的大腦分泌「<strong>Endorphin (安多芬)</strong>」俗稱「<strong>快樂賀爾蒙</strong>」，這將可以有效的緩解<strong>現代高壓社會下民眾的壓力與憂鬱感</strong>。</p>
 ]]></content>
       <categories>
-        <category>Popular-Science (科普)</category>
+        <category>健康</category>
       </categories>
   </entry>
   <entry>
@@ -271,7 +271,7 @@ MIT.edu、DOJ.gov、W3.gov 等相關網站相繼被駭客關閉。</li>
 許多惡意的網絡攻擊事件都會與 Anonymous 扯上關係，許多攻擊者自稱匿名者，並發動惡意的網絡攻擊，但<strong>惡意</strong>的攻擊本身就違背了 Anonymous 的理念，因此我們並<strong>不能</strong>承認這種行為為 Anonymous。</p>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Anonymous (匿名者)</tag>
@@ -348,7 +348,7 @@ P.S. 1041279065871998535982789873959431895640\4425106955675643739226952372682423
  不過畢竟是網路流傳的訊息，多少被經過修改，就不糾結這個問題了，大家看看就好。</p>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Cicada3301</tag>
@@ -484,7 +484,7 @@ P.S. 1041279065871998535982789873959431895640\4425106955675643739226952372682423
 <p>「<text style="color: red;">如有相關疑問，可撥打國軍菸害暨檳榔防制專線 <strong>0800-580791</strong> 或至各國軍醫院接受戒治服務。</text>」</p>
 ]]></content>
       <categories>
-        <category>Popular-Science (科普)</category>
+        <category>科普</category>
       </categories>
   </entry>
   <entry>
@@ -733,7 +733,7 @@ P.S. 1041279065871998535982789873959431895640\4425106955675643739226952372682423
 最後，希望這次事件能夠盡快落幕，不要再有更多的受害者。天佑武漢，天佑中國，天佑世界。</p>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>科普</category>
       </categories>
   </entry>
   <entry>
@@ -848,7 +848,7 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
 <img src="/2020/02/18/DarkWeb-FamousWeb/anonymous_the-lolita-city.jpg" class="" title="取自網絡，Lolita City 頁面 遭受 Anonymous 攻擊。">
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>暗網</category>
       </categories>
       <tags>
         <tag>18+</tag>
@@ -910,7 +910,7 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
 <p>下一篇文章中，介紹了 4 個在暗網中非常著名的網站，有些甚至到了今天，服務仍正常在運作中，歡迎觀看「<strong><a href="/2020/02/18/DarkWeb-FamousWeb/" title="(18+) 浮出水面的 4 個知名暗網">(18+) 浮出水面的 4 個知名暗網</a></strong>」。</p>
 ]]></content>
       <categories>
-        <category>Popular-Science (科普)</category>
+        <category>暗網</category>
       </categories>
       <tags>
         <tag>18+</tag>
@@ -918,51 +918,6 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
         <tag>Dark Web (暗網)</tag>
         <tag>Tor (洋蔥路由)</tag>
         <tag>Bitcoin (比特幣)</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>匿名交友 — HeyMandi 網頁版 XSS</title>
-    <url>/2019/12/22/HeyMandi%E7%B6%B2%E9%A0%81%E7%89%88XSS/</url>
-    <content><![CDATA[<span id="more"></span>
-<hr>
-<h4 id="id">ID</h4>
-<p>《ZDID》ZD-2018-01160</p>
-<hr>
-<h4 id="content">Content</h4>
-<p>受測單位：HeyMandi<br>
- 風險評估：低<br>
-漏洞類型：預存式跨站腳本攻擊 (Stored Cross-Site Scripting)<br>
- 通報時間：2018/10/18</p>
-<hr>
-<h4 id="payload">PayLoad</h4>
-<p><s>https://chat.heymandi.com/chat</s></p>
-<hr>
-<h4 id="describe">Describe</h4>
-<p>若聊天室內的雙方都是使用 HeyMandi APP，又或者雙方都是使用 Web 版的話，則不會觸發該漏洞。<br>代碼被執行的問題發生在攻擊方為 APP 版，受攻擊方為網頁版的情境下 (網址：https://chat.heymandi.com/chat)。</p>
-<img src="01.jpeg" style="width:50%;">
-<p>在此情境下 APP 方所發送的文字內涵有的 Script 並<strong>不會</strong>被有效過濾，因此語法可在另一端，也就是 Web 端上被執行。</p>
-<img src="02.jpeg" style="width:90%;">
-<p>滲透的一開始 (上圖)，測試代碼 &quot;<strong> <code>&lt;script&gt;alert(1)&lt;/script&gt;</code> </strong>&quot;，而結果是該代碼並不會被執行，但<strong> Script 標籤的確有被植入成功</strong>。</p>
-<img src="03.jpeg" style="width:50%;">
-<p>因此將代碼換成了 &quot;<strong> <code>&lt;img src=&quot;&quot; onerror=alert(1)&gt;</code> </strong>&quot; 做第二次測試。</p>
-<img src="04.jpeg" style="width:50%;">
-<p>結果成功的執行出 alert 腳本。(如上圖)<br>
- 另外包含 &quot;<strong> <code>&lt;h1&gt;</code> </strong>&quot;、&quot;<strong> <code>&lt;b&gt;</code> </strong>&quot; 等標籤，經測試也是可被執行的，以及其他大量未測試的語法，都可能含有被執行的風險。</p>
-<hr>
-<h4 id="repair">Repair</h4>
-<p>在 Web 端傳送至 APP 端的語法會被轉為 HTML 編碼，<br>
-同理可將 APP 端傳送至 Web 端的語法也轉為 HTML 編碼以達到過濾語法的效果。</p>
-<p>防護原則：<br>
-<a href="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet">https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a></p>
-]]></content>
-      <categories>
-        <category>Computer Science</category>
-        <category>Security-Flaw (安全漏洞)</category>
-        <category>我的通報</category>
-      </categories>
-      <tags>
-        <tag>ReportedFromMe (我的通報)</tag>
-        <tag>XSS (Cross-Site-Scripting)</tag>
       </tags>
   </entry>
   <entry>
@@ -1060,7 +1015,7 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
 <img src="/2020/09/01/How-To-Enter-The-DarkWeb/end.jpg" class="">
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>暗網</category>
       </categories>
       <tags>
         <tag>18+</tag>
@@ -1096,7 +1051,7 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
 <img src="/2020/03/25/Korea-N-Room/02.jpeg" class="" title="조주빈 (趙周彬，音譯)">
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>暗網</category>
       </categories>
       <tags>
         <tag>18+</tag>
@@ -1193,7 +1148,7 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
 <p>賺錢的方式有許多種，勝利的關鍵<strong>不在</strong>「 <strong>哪個賺最多</strong> 」，而在「 <strong>哪個最適合自己</strong> 」。以上推薦的五種在家獲取收入的方法<strong>不一定適合</strong>每個人，但如 <strong>Youtuber</strong> 及 <strong>直播主</strong>等行業，不僅入門門檻低，更是 <strong>0 成本</strong>，不妨有空嘗試看看。</p>
 ]]></content>
       <categories>
-        <category>Concept (概念分享)</category>
+        <category>賺錢</category>
       </categories>
   </entry>
   <entry>
@@ -1365,38 +1320,8 @@ Stephen 被指控犯有<strong>二級謀殺罪</strong>，然後在<strong> 2017
 <p>這篇文章如果有幫助你更認識打檔機車的話，也別忘記分享給你身邊喜愛檔車的朋友吧！</p>
 ]]></content>
       <categories>
-        <category>Popular-Science (科普)</category>
+        <category>科普</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Mr.L — 我的啟蒙者</title>
-    <url>/2020/01/06/MrL/</url>
-    <content><![CDATA[<p>「寫程式好難啊…」我獨自坐在電腦桌前說著，那是我國三畢業後的假期。<br>
-想想那段時間，我近三個月沒有與任何人說過話，腦裡已經被程式語言給佔領。</p>
-<span id="more"></span>
-<img src="/2020/01/06/MrL/title.jpg" class="">
-<hr>
-<h3 id="入坑">入坑</h3>
-<p>我與很多小孩一樣從小不愛讀書，更是沒什麼過人的成就，當時「學校」對於我來說只是必須準時報到的「娛樂場所」，天天到學校去也是開開心心、無憂無慮，名副其實的「上課睡覺，下課尿尿」，偶爾再找點樂子闖個禍爽一下，一直是令家人及老師頭痛的問題兒童。<br>
-偶然在國三畢業後的假期裡接觸了<a href="https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1" target="_blank">編程</a>，當初什麼也不懂，也不是特別感興趣，而且自己也先入為主的認為「這需要大量動腦的東西不適合我」，僅僅只是因為喜歡玩電腦而報考「資訊科」，想想電影裡的駭客寫程式的樣子也蠻帥的感覺。然而不知道是哪根筋作祟，這一學，居然近三個月就這麼過去了，回過神來，我忘了吃飯，忘了睡覺，幽暗的房間，只剩螢幕上滿滿來自程序錯誤的視窗以及一頭亂髮的男孩。</p>
-<h3 id="社交障礙">社交障礙</h3>
-<p>高中如願考上了資訊科，接觸了許多事物，但總是覺得少了點什麼，少的原來是能和我溝通的人。長時間的面對電腦，早讓我忘記了如何與人相處，我遇到了人生中的一大難題 — <a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%87%BC%E7%97%87" target="_blank">社交障礙</a>。我嘗試透過網路學習，結交許多圈內網友，他們熱心的與我討論所遇到的程式問題，也分享了許多有趣的資安事件，我終於在他們的幫助下解決了程式的錯誤，也好像在這樣的環境找到屬於我的一絲溫暖。日子一天天的過，學習的東西越來越難，對於從小沒有讀書習慣的我，即使再有興趣，也扛不住了，我開始厭煩、頹廢，直到… 我遇見了 Mr.L。<br>
-L 先生的資訊能力非常強大，他是一個想到什麼說什麼的人，不做作，有著一套屬於自己獨特的學習系統、邏輯及思維，但也因此，在現實生活中顯的格格不入，是個時常受到排擠的對象，但我喜歡他這樣的個性。</p>
-<h3 id="發現">發現</h3>
-<p>撿到了這樣一塊不起眼的寶石，我真很幸運。在 L 先生的陪同下，我挖掘了更深入的技術，他手把手的教導我如何以正確的心態學習，面對難題時，又該如何去應對，不得不說，對於一個從小不用功的野孩子，「學習」兩個字真的很陌生，可以說是在這個時候，我才開始與這個詞擦上邊。<br>
-然而正當我以為故事只是就此發展時，我意外的發現，L 先生不僅僅只是資訊技能強而已，在網絡的世界裡，他其實是大家口中的「駭客」，親眼目睹了他將一個網站給打掉，原本光鮮亮麗的頁面，轉眼間被置換成了搞笑的貓動圖，我驚訝的問他「你做了什麼！？」，然而他只是淡淡的回道「玩玩而已，怎麼？有興趣嗎？」，我呆呆的望著螢幕，耳機傳來 L 先生的呼喊「Yo~ 還在嗎？」，我慌忙著邊大力點頭回應道「有！我有興趣！教我！」。</p>
-<h3 id="成型">成型</h3>
-<p>一路跟著 L 先生的腳步，也希望有天能超越他，存在這麼強大的人成了我的學習動力，更何況… 誰又能想像，當初的 L 先生居然僅僅只是個國小生。</p>
-<hr>
-<p>我： 什麼！？你居然才國小！？WTF<br>
-L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀沒有直接關係。</p>
-]]></content>
-      <categories>
-        <category>Writing (文學創作)</category>
-      </categories>
-      <tags>
-        <tag>Composition (作文)</tag>
-      </tags>
   </entry>
   <entry>
     <title>拋棄式信箱、手機號碼｜匿名接收簡訊，避開垃圾郵件及騷擾！</title>
@@ -1622,7 +1547,7 @@ L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀
 <img src="/2020/08/21/One-Off-Service/18.png" class="">
 ]]></content>
       <categories>
-        <category>Service (服務分享)</category>
+        <category>電腦科學</category>
       </categories>
   </entry>
   <entry>
@@ -1688,7 +1613,7 @@ L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀
 <p>《Wiki 維基百科 - 圓周率》<a href="https://zh.wikipedia.org/wiki/%E5%9C%93%E5%91%A8%E7%8E%87">https://zh.wikipedia.org/wiki/ 圓周率</a></p>
 ]]></content>
       <categories>
-        <category>Mathematics</category>
+        <category>數學</category>
       </categories>
       <tags>
         <tag>Mathematics</tag>
@@ -1773,7 +1698,7 @@ L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀
 <p>對了，關於史諾登以及該計畫的故事有被拍成電影《 <strong>Snowden (神鬼駭客：史諾登)</strong> 》，有興趣的朋友可以看看。</p>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Hacker (駭客)</tag>
@@ -1830,7 +1755,7 @@ L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀
 </ul>
 ]]></content>
       <categories>
-        <category>Concept (概念分享)</category>
+        <category>科普</category>
       </categories>
   </entry>
   <entry>
@@ -2010,7 +1935,7 @@ L：欸不是，我說你啊… 別看不起國小生，學習、能力跟年紀
 <p>如果這篇文章有幫助到你，也不要忘了分享給那些還不知道怎麼入場的朋友看！<strong>祝大家挖礦順利！</strong></p>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Bitcoin (比特幣)</tag>
@@ -2219,45 +2144,11 @@ While Pi seeks to avoid extreme concentrations of wealth, the network also seeks
 <p>《Pi Network White-Paper》<a href="https://minepi.com/white-paper">https://minepi.com/white-paper</a></p>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Bitcoin (比特幣)</tag>
         <tag>Digital-Currency (數位貨幣)</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>RC 語音 XSS 漏洞</title>
-    <url>/2019/12/23/RC%E8%AA%9E%E9%9F%B3XSS%E6%BC%8F%E6%B4%9E/</url>
-    <content><![CDATA[<span id="more"></span>
-<img src="/2019/12/23/RC%E8%AA%9E%E9%9F%B3XSS%E6%BC%8F%E6%B4%9E/title.jpeg" class="">
-<hr>
-<h3 id="id">ID</h3>
-<p>《ZDID》ZD-2017-00589</p>
-<hr>
-<h3 id="content">Content</h3>
-<p>受測單位：伊凡達科技股份有限公司<br>
-風險評估：中<br>
-漏洞類型：預存式跨站腳本攻擊 (Stored Cross-Site Scripting)<br>
- 通報時間：2017/10/16</p>
-<hr>
-<h3 id="describe">Describe</h3>
-<p>名稱欄位可以被執行腳本，沒有做到字元過濾的防護</p>
-<p>RC 語音的「名稱欄位」中，如果命名為 「 <strong> <code>&quot;&gt;&lt;script&gt;alert('1')&lt;/script&gt;</code> </strong> 」 再進去 &quot;秀場&quot; 系統，則會被執行名稱上的語法，在論壇中也有一樣的問題，甚至可以透過「 <strong> <code>&lt;!--</code> </strong> 」輕鬆註解論壇網頁。</p>
-<hr>
-<h3 id="repair">Repair</h3>
-<p>可禁用敏感字眼，並且最好能在輸出前轉換文字為 html 編碼，這可以大大減少 XSS 的發生。</p>
-<p>防護原則：</p>
-<p><a href="https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet" target="_blank">https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a></p>
-]]></content>
-      <categories>
-        <category>Computer Science</category>
-        <category>Security-Flaw (安全漏洞)</category>
-        <category>我的通報</category>
-      </categories>
-      <tags>
-        <tag>ReportedFromMe (我的通報)</tag>
-        <tag>XSS (Cross-Site-Scripting)</tag>
       </tags>
   </entry>
   <entry>
@@ -2292,7 +2183,7 @@ While Pi seeks to avoid extreme concentrations of wealth, the network also seeks
 <p>以上，若是你大致了解了 <strong>Edward Joseph Snowden (愛德華・約瑟夫・史諾登)</strong> 的背景，那麼接下來一定不能錯過我的下一篇文章，關於史諾登揭開的「 <strong>PRISM (稜鏡計劃)</strong> 」內幕 - 「<strong><a href="/2020/02/27/PRISM(%E7%A8%9C%E9%8F%A1%E8%A8%88%E5%8A%83)/" title="PRISM (稜鏡計劃)｜政府監控人民網絡的陰謀！">PRISM (稜鏡計劃)｜政府監控人民網絡的陰謀！</a></strong>」。</p>
 ]]></content>
       <categories>
-        <category>Person (人物分享)</category>
+        <category>人物分享</category>
       </categories>
       <tags>
         <tag>Hacker (駭客)</tag>
@@ -2388,7 +2279,7 @@ While Pi seeks to avoid extreme concentrations of wealth, the network also seeks
 </blockquote>
 ]]></content>
       <categories>
-        <category>Computer Science</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Social-Engineering (社交工程)</tag>
@@ -2421,7 +2312,7 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 <img src="/2019/12/20/Ubuntu%E9%A1%AF%E7%A4%BA%E9%9B%BB%E9%87%8F%E7%99%BE%E5%88%86%E6%AF%94/setting.png" class="" title="Gnome-Tweaks">
 ]]></content>
       <categories>
-        <category>Note (技巧分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Linux</tag>
@@ -2510,7 +2401,7 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 <p>最後，如果這篇文章有幫助到你，那也請不吝嗇轉發分享給你的朋友們看唷！</p>
 ]]></content>
       <categories>
-        <category>Note (技巧分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Windows 10</tag>
@@ -2560,8 +2451,7 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 <p>喔對了，你可以任意的<strong>修改</strong>、<strong>使用</strong>並<strong>發布更新</strong>，若你覺得不錯也可以轉傳給朋友們，但<strong>請聲明來源</strong>，這是一個對創作者的尊重。</p>
 ]]></content>
       <categories>
-        <category>Project (專案分享)</category>
-        <category>我的專案</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>18+</tag>
@@ -2631,7 +2521,7 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 </ul>
 ]]></content>
       <categories>
-        <category>Information (資訊分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>Cyber Security (網絡安全)</tag>
@@ -2675,7 +2565,7 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 <p>在此呼籲，如果各位真的遇到中二病患者，不要以異樣眼光去看待及排擠，若是真的不舒服，可以簡單敷衍就好，畢竟他是沒有惡意的。</p>
 ]]></content>
       <categories>
-        <category>Popular-Science (科普)</category>
+        <category>科普</category>
       </categories>
       <tags>
         <tag>Cyberculture (網絡文化)</tag>
@@ -2781,7 +2671,7 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 若是讀者有興趣可以自行上網搜尋「 <strong>神經網路學習</strong> 」的相關資料。</p>
 ]]></content>
       <categories>
-        <category>Concept (概念分享)</category>
+        <category>AI</category>
       </categories>
       <tags>
         <tag>AI (人工智慧)</tag>
@@ -2865,10 +2755,433 @@ $ gnome-tweaks<span aria-hidden="true" class="line-numbers-rows"><span></span><s
 不過想必該技術在普及之前，也一定會實施預防的相關方案… 吧？</p>
 ]]></content>
       <categories>
-        <category>Concept (概念分享)</category>
+        <category>電腦科學</category>
       </categories>
       <tags>
         <tag>量子力學 (Quantum Mechanics)</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>夏至禁忌：關於炎熱節氣的禁忌</title>
+    <url>/2024/06/23/%E5%A4%8F%E8%87%B3%E7%A6%81%E5%BF%8C/</url>
+    <content><![CDATA[夏至，是一年中陽氣最旺盛的時候，然而在這個看似熱鬧非凡的節氣背後，卻隱藏著許多神秘的禁忌和傳說。讓我們一同探索這些與夏至有關的禁忌，以及它們背後的文化和信仰意涵。
+<span id="more"></span>
+<hr>
+<h2 id="夏至的來臨與民俗禁忌">夏至的來臨與民俗禁忌</h2>
+<p>夏至，是中國二十四節氣之一，通常出現在每年的 6 月 21 日左右。這一天陽光直射北回歸線上，北半球白天最長，黑夜最短，是陽氣最旺盛的時刻。然而，這樣的特殊時刻也伴隨著許多古老的民俗禁忌。</p>
+<hr>
+<h2 id="飲食禁忌">飲食禁忌</h2>
+<p>在夏至這一天，民間有著許多特定的飲食禁忌。例如，有些地方認為夏至當天不宜吃鹽，以避免「吃鹽」和「中暑」諧音，避免中暑發生。還有人認為吃面粉制品會招來蚊蟲叮咬，因此在這一天也要避免吃麵食。</p>
+<h2 id="禁止洗頭">禁止洗頭</h2>
+<p>在一些地區，人們相信夏至這天洗頭會導致健康問題，或者會帶來厄運。這種觀念可能源於古代的思想，認為夏至這天陽氣最旺，人體開竅，洗頭可能會影響身體的陽氣流動。</p>
+<h2 id="守夏安床">守夏安床</h2>
+<p>在中國南方部分地區，有「守夏安床」的習俗，即在夏至這天之後不再換床。人們相信這樣可以避免帶來厄運或破壞家中的平安。</p>
+<h2 id="祭祀祈福">祭祀祈福</h2>
+<p>夏至也是許多民間祭祀的重要時刻，人們會祭拜神明，祈求平安和豐收。在古代，農民們會於夏至這天祭祀土地神，希望能夠得到豐收和農作物的保佑。</p>
+<hr>
+<h2 id="結語">結語</h2>
+<p>夏至禁忌雖然在現代社會可能已經不再普遍，但它們背後所蘊含的文化內涵和民俗信仰卻仍然影響著一部分人的生活方式和思維模式。這些禁忌不僅是人們對自然現象的理解和尊重，更是文化傳承中的一部分，值得我們在享受夏至這個美好節日的同時，去了解和尊重這些古老而神秘的傳統。希望大家在夏至這天，不僅可以享受美好的時光，也能夠體會到這些禁忌背後所蘊含的深層意義。</p>
+]]></content>
+      <categories>
+        <category>科普</category>
+      </categories>
+      <tags>
+        <tag>禁忌</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暗網經濟：深入解析隱秘市場的運作機制</title>
+    <url>/2024/06/23/%E6%9A%97%E7%B6%B2%E7%B6%93%E6%BF%9F-%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90%E9%9A%B1%E7%A7%98%E5%B8%82%E5%A0%B4%E7%9A%84%E9%81%8B%E4%BD%9C%E6%A9%9F%E5%88%B6/</url>
+    <content><![CDATA[隨著數位經濟的發展，互聯網為我們帶來了前所未有的便利。然而，互聯網的陰暗面也在同時發展，其中最具代表性的便是暗網經濟。今天，我們將深入探討暗網經濟的運作機制，了解這個隱秘市場如何運作，以及它對全球經濟和社會的影響。
+<span id="more"></span>
+<hr>
+<h2 id="暗網經濟的基本構成">暗網經濟的基本構成</h2>
+<p>暗網經濟主要由以下幾個部分構成：</p>
+<ol>
+<li>
+<p><strong>黑市交易</strong>：這是暗網經濟的核心，涉及毒品、武器、假證件、被盜數據等非法物品的交易。著名的例子包括「絲路」（Silk Road）和「AlphaBay」，這些市場通過加密貨幣如比特幣進行支付，保障交易的匿名性。</p>
+</li>
+<li>
+<p><strong>非法服務</strong>：包括雇傭駭客、散布惡意軟體、數據洩露、洗錢服務等。這些服務常常以較高的報酬吸引專業人士參與。</p>
+</li>
+<li>
+<p><strong>數據買賣</strong>：暗網上存在大量被盜的個人信息、信用卡資料、公司機密等數據的買賣市場，這些數據被用於各種詐騙和網絡犯罪活動。</p>
+</li>
+</ol>
+<hr>
+<h2 id="暗網交易的支付方式">暗網交易的支付方式</h2>
+<p>暗網上的交易通常使用加密貨幣進行支付，最常見的是比特幣（Bitcoin），其次是門羅幣（Monero）等隱私性更強的加密貨幣。加密貨幣的使用保證了交易的匿名性和不可追蹤性，這是暗網市場得以運作的重要基礎。</p>
+<p><img src="bitcoin.jpg" alt=""></p>
+<hr>
+<h2 id="暗網市場的運作機制">暗網市場的運作機制</h2>
+<p>暗網市場通常模仿合法電子商務平台的運作模式，但有其獨特的特點：</p>
+<ol>
+<li>
+<p><strong>評價系統</strong>：與合法電商平台類似，暗網市場也有買家評價系統，這有助於建立賣家的信譽。高評價的賣家往往能吸引更多的買家。</p>
+</li>
+<li>
+<p><strong>托管服務</strong>：為了防止詐騙，暗網市場通常提供托管服務，即買家的支付款項由市場平台暫時保管，直到買家確認收到貨品或服務後再將款項釋放給賣家。</p>
+</li>
+<li>
+<p><strong>匿名通訊</strong>：暗網市場上的交易和通訊通過加密的方式進行，買賣雙方通常使用假名或代號，並通過加密郵件或專用訊息平台進行溝通。</p>
+</li>
+</ol>
+<hr>
+<h2 id="深入解析暗網經濟的各個方面">深入解析暗網經濟的各個方面</h2>
+<h3 id="黑市交易的動態與規模">黑市交易的動態與規模</h3>
+<p>黑市交易是暗網經濟的中樞。根據一些研究，全球暗網市場每年交易額達到數十億美元。這些市場的運作類似於合法的電子商務平台，但交易的商品和服務多數是非法的。</p>
+<ul>
+<li>
+<p><strong>毒品交易</strong>：暗網是非法毒品交易的重要平台，販賣各種類型的毒品，包括大麻、海洛因、MDMA 等。這些交易通常通過加密貨幣進行，並使用隱秘的運輸方式。</p>
+</li>
+<li>
+<p><strong>武器交易</strong>：雖然不如毒品交易那麼普遍，但暗網上也存在大量非法武器交易。這些武器可能來自軍火庫的盜竊或非法製造。</p>
+</li>
+<li>
+<p><strong>假證件和身份盜用</strong>：假護照、假駕照和其他假證件在暗網上也很常見，這些假證件被用於各種犯罪活動。</p>
+</li>
+</ul>
+<p><img src="gun.jpg" alt=""></p>
+<h3 id="非法服務的供應與需求">非法服務的供應與需求</h3>
+<p>暗網上提供的非法服務類型繁多，需求強勁：</p>
+<ul>
+<li>
+<p><strong>雇傭駭客</strong>：暗網上有專業駭客提供入侵公司系統、竊取敏感信息、進行網絡攻擊等服務。這些服務價格不菲，吸引了不少有技術背景的人參與。</p>
+</li>
+<li>
+<p><strong>散布惡意軟體</strong>：惡意軟體製作和散布服務在暗網上也很常見。這些軟體包括勒索病毒、間諜軟體、木馬等，常被用於企業攻擊和數據竊取。</p>
+</li>
+<li>
+<p><strong>數據洩露與洗錢</strong>：暗網上有大量被盜數據的買賣市場，這些數據被用於身份盜用和各種詐騙活動。洗錢服務則幫助犯罪分子將非法所得轉化為合法財產。</p>
+</li>
+</ul>
+<p><img src="hacker.jpg" alt=""></p>
+<hr>
+<h2 id="暗網經濟的風險與挑戰">暗網經濟的風險與挑戰</h2>
+<h3 id="技術挑戰">技術挑戰</h3>
+<p>追蹤和打擊暗網經濟需要先進的技術手段：</p>
+<ul>
+<li>
+<p><strong>加密貨幣交易追蹤</strong>：雖然加密貨幣提供了一定程度的匿名性，但技術專家和執法機構仍在研發各種工具來追蹤這些交易。這需要高度專業的知識和技術支持。</p>
+</li>
+<li>
+<p><strong>匿名通訊破解</strong>：暗網上的通訊通常是加密的，破解這些通訊需要強大的計算能力和專業技術。執法機構需要投入大量資源來進行這方面的研究。</p>
+</li>
+</ul>
+<h3 id="法律挑戰">法律挑戰</h3>
+<p>暗網經濟的跨國性質使得法律管轄和執法變得複雜：</p>
+<ul>
+<li>
+<p><strong>國際合作</strong>：打擊暗網犯罪需要國際間的合作，但各國法律體系不同，執法標準和程序也不一致，這增加了合作的難度。</p>
+</li>
+<li>
+<p><strong>法律框架</strong>：許多國家的法律尚未完全適應數字經濟的發展，特別是在處理暗網犯罪方面。這需要法律的更新和完善。</p>
+</li>
+</ul>
+<h3 id="社會挑戰">社會挑戰</h3>
+<p>提高公眾對暗網經濟的認識和警惕也是一大挑戰：</p>
+<ul>
+<li>
+<p><strong>公眾教育</strong>：許多普通用戶對暗網缺乏認識，可能在不知情的情況下成為受害者。需要加強公眾教育，提高他們的安全意識。</p>
+</li>
+<li>
+<p><strong>企業安全</strong>：企業需要加強網絡安全防護，防止成為暗網駭客的攻擊目標。這需要投入更多資源和技術，並提升員工的安全意識。</p>
+</li>
+</ul>
+<hr>
+<h2 id="結語">結語</h2>
+<p>暗網經濟是一個隱秘且複雜的領域，其運作機制和影響值得我們深入研究和重視。隨著科技的進步和全球化的發展，打擊暗網經濟需要各方的共同努力。只有通過技術創新、法律完善和國際合作，才能有效遏制暗網經濟，維護互聯網的安全與秩序。希望這篇文章能夠幫助讀者更深入地了解暗網經濟的運作機制和挑戰，並引起對這一問題的關注。</p>
+]]></content>
+      <categories>
+        <category>暗網</category>
+      </categories>
+      <tags>
+        <tag>Deep Web (深網)</tag>
+        <tag>Dark Web (暗網)</tag>
+        <tag>Bitcoin (比特幣)</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>深入探索玫瑰十字會(Rosicrucianism)：神秘、智慧與靈性的結合</title>
+    <url>/2024/06/23/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2%E7%8E%AB%E7%91%B0%E5%8D%81%E5%AD%97%E6%9C%83/</url>
+    <content><![CDATA[玫瑰十字會（Rosicrucianism）是一個擁有深厚神秘主義背景的組織，其歷史和教義充滿了奧秘和靈性探索的意味。讓我們一起深入探索這個神秘組織的起源、教義以及其在世界觀和人類進化中的角色。
+<span id="more"></span>
+<hr>
+<h2 id="起源和歷史">起源和歷史</h2>
+<p>玫瑰十字會最早在 17 世紀初期的歐洲出現，其創始人被認為是一位神秘的人物，名叫克里斯蒂安・羅森克羅伊茨（Christian Rosenkreuz）。羅森克羅伊茨據說曾遊歷於中東和北非地區，學習東方智慧和神秘學知識後返回歐洲，成立了玫瑰十字會。這個組織的創立被認為是為了傳播智慧和神秘知識，並透過內在的靈性提升來實現人類的進化。</p>
+<p><img src="Rosicrucian-Order.png" alt="圖源自 Wiki 維基百科：玫瑰十字聖殿，德語：Teophilus Schweighardt Constantiens，1618年"></p>
+<hr>
+<h2 id="教義和學說">教義和學說</h2>
+<p>玫瑰十字會的教義融合了宗教、哲學和神秘主義元素，主張宇宙中存在著一種普遍的神秘秩序，人類透過知識的追求和靈性的提升可以達到對宇宙真理的理解。他們相信，通過深入的內省和靈性實踐，人類可以超越物質層面，接近神聖的本質。</p>
+<hr>
+<h2 id="組織結構和活動">組織結構和活動</h2>
+<p>玫瑰十字會以其神秘的儀式和象徵聞名，成員們通常透過階層制度進行組織和知識的傳遞。他們的活動包括學習和實踐煉金術、占星術、神秘主義等領域的知識，並通過定期的聚會和研討會來深化成員的理解和經驗。</p>
+<hr>
+<h2 id="與煉金術的關係">與煉金術的關係</h2>
+<p>煉金術作為一門古老的知識體系，探索物質世界與精神世界之間的聯繫，與玫瑰十字會的靈性探索和宇宙秩序的理念密切相關。玫瑰十字會的成員通常對煉金術有深入的研究與實踐，認為這些象徵和寓言能夠揭示宇宙的深層真理，並幫助個人實現靈性的進步。</p>
+<p><img src="alchemy.png" alt=""></p>
+<hr>
+<h2 id="結語">結語</h2>
+<p>玫瑰十字會不僅是一個組織，更是一個尋求智慧和靈性覺醒的社群。他們的教義和實踐吸引著來自世界各地尋求真理和奧秘的人們。通過深入研究和實踐，玫瑰十字會為探索神秘之路的人們提供了一個獨特而富有洞察力的平台，使他們能夠超越日常的感官世界，探索宇宙的無窮奧秘。</p>
+]]></content>
+      <categories>
+        <category>煉金術</category>
+      </categories>
+      <tags>
+        <tag>玫瑰十字會</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>神秘的煉金術：荷姆克魯斯，瓶中小人的奧秘</title>
+    <url>/2024/06/23/%E7%A5%9E%E7%A7%98%E7%9A%84%E7%85%89%E9%87%91%E8%A1%93%EF%BC%9A%E8%8D%B7%E5%A7%86%E5%85%8B%E9%AD%AF%E6%96%AF%EF%BC%8C%E7%93%B6%E4%B8%AD%E5%B0%8F%E4%BA%BA%E7%9A%84%E5%A5%A7%E7%A7%98/</url>
+    <content><![CDATA[這一概念在煉金術士的著作和傳說中佔有一席之地，被視為人類創造生命的一種神秘實驗。
+<span id="more"></span>
+<hr>
+<h2 id="瓶中小人的起源與歷史">瓶中小人的起源與歷史</h2>
+<p>瓶中小人的起源可以追溯到中世紀的歐洲，這個概念源自於煉金術士們對於微觀宇宙和人類的控制力的渴望。煉金術士相信，透過特殊的煉金術方法或咒語，他們可以創造出一個微小的人形像，並將其放置在瓶中。這些瓶中小人被認為具有特殊的能力，可以為創造者帶來好運、保護或者其他形式的神秘力量。在煉金術的實踐中，瓶中小人通常象徵著對微觀宇宙的探索和控制，以及人類對於超自然力量的追求。</p>
+<p><img src="homunculus.png" alt="圖源自 Wiki 維基百科：製作荷姆克魯斯的鍊金術師"></p>
+<hr>
+<h2 id="瓶中小人的象徵意義">瓶中小人的象徵意義</h2>
+<p>除了其實際應用外，瓶中小人還有更深層次的象徵意義。它常被解讀為個人的心靈實體的象徵，或者是某種內在力量的具體表現。在某些煉金術的理論中，製造瓶中小人的過程本身就是一種精神轉化的象徵，代表著尋找內在完美和和諧的旅程。此外，瓶中小人也可能代表對於超自然和神秘力量的理解和控制，是煉金術士與自然之間互動的象徵。</p>
+<hr>
+<h2 id="現代對瓶中小人的解讀與應用">現代對瓶中小人的解讀與應用</h2>
+<p>隨著科學的進步，對瓶中小人的解讀也有了新的角度。一些人認為，瓶中小人可能是古代煉金術士用來象徵心理狀態或保護的一種符號，而非實際的物理實體。這種理解使得瓶中小人成為當代藝術和文學作品中的常見主題，通過探索其象徵意義來反映人類對於心靈和宇宙的深刻思考。</p>
+<hr>
+<h2 id="瓶中小人的製作過程">瓶中小人的製作過程</h2>
+<p>瓶中小人是煉金術中一個神秘而又引人入勝的主題，它的製作過程充滿了神秘感與技術的奧秘。根據古代煉金術士的描述和傳說，製作瓶中小人通常需要以下步驟：</p>
+<ul>
+<li>
+<p><strong>準備材料與瓶子</strong>：煉金術士會選擇一個適合的小瓶子，通常是玻璃瓶或者其他透明容器。然後準備各種材料，包括金屬、粉末、草藥或其他特殊的成分，這些成分被認為能夠賦予瓶中小人特殊的能力或者象徵意義。</p>
+</li>
+<li>
+<p><strong>煉金術的儀式</strong>：製作瓶中小人的過程通常伴隨著一系列的儀式和咒語。煉金術士會在特定的時間和地點進行祈禱、燃燒香料、唸誦咒語等，以便引發特殊的能量或者連接到超自然力量。</p>
+</li>
+<li>
+<p><strong>塑造小人</strong>：根據煉金術士的意圖和目的，他們會開始塑造小人的形象。這可能包括將金屬或其他材料塑造成小人的形狀，並添加其他符號或象徵來賦予其特殊的意義和功能。</p>
+</li>
+<li>
+<p><strong>封閉瓶口</strong>：完成瓶中小人的製作後，煉金術士會在瓶口封上蓋子或者使用蠟封口，這是為了固定小人的能量或者保護其不受外界干擾。</p>
+</li>
+</ul>
+<hr>
+<h2 id="結語">結語</h2>
+<p>瓶中小人不僅是煉金術中的一個神秘主題，也是一個探索人類精神世界和宇宙奧秘的窗口。無論是其真實存在與否，還是其象徵意義的探討，瓶中小人都是一個引人深思的符號。它激發了人們對於自我探索和超自然力量的無限好奇，並在煉金術的歷史和當代文化中留下了深遠的影響。</p>
+<p>這樣的神秘主題，總是讓人感到不由自主地被吸引，因為它背後隱藏的不僅僅是一個故事，更是人類對於自身和宇宙存在的深刻追問。</p>
+]]></content>
+      <categories>
+        <category>煉金術</category>
+      </categories>
+      <tags>
+        <tag>瓶中小人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>賢者之石：煉金術的魔法石</title>
+    <url>/2024/06/23/%E8%B3%A2%E8%80%85%E4%B9%8B%E7%9F%B3%EF%BC%9A%E7%85%89%E9%87%91%E8%A1%93%E7%9A%84%E9%AD%94%E6%B3%95%E7%9F%B3/</url>
+    <content><![CDATA[在煉金術的傳說中，賢者之石（Philosopher's Stone）被視為實現無數煉金術士夢想的關鍵。
+<span id="more"></span>
+<hr>
+<p>這神秘物質被認為擁有多種神奇能力，包括 <code>轉化基本金屬為黃金</code> 、 <code>製造不老不死藥水</code> ，甚至是達成 <code>精神與物質的完美平衡</code> 。讓我們深入探索這傳奇中的石頭，以及它在不同文化中的例子和意義。</p>
+<hr>
+<h2 id="起源與文化意義">起源與文化意義</h2>
+<p>賢者之石最早出現在古代埃及和古希臘的文化中，後來這個概念在中世紀的歐洲煉金術士間尤為盛行。它象徵著智慧的象徵，代表了人類對於掌握自然秘密和超越物質界限的渴望。煉金術士相信，透過賢者之石的力量，可以實現人類無法想像的事情，例如將不值錢的金屬轉化為貴重的黃金，或者達到永生不老的境界。</p>
+<p><img src="stones.jpg" alt=""></p>
+<hr>
+<h2 id="神秘性與描述">神秘性與描述</h2>
+<p>賢者之石的外形和性質多有不同描述，這反映了不同時代和文化對於其理解的多樣性。有些描述它為純凈的白色石頭，散發出耀眼光芒；有些則認為它是一種特殊的合金或粉末，具有魔法般的力量。然而，無論其具體形態如何，賢者之石的本質始終保持著其神秘和奧秘的特性。</p>
+<hr>
+<h2 id="煉金術的實驗與探索">煉金術的實驗與探索</h2>
+<p>煉金術士通常將其生涯奉獻於尋找賢者之石的追求中。他們進行無數實驗，嘗試各種物質的合成和轉化，希望能夠找到這個傳說中的寶物。雖然現代科學已經證實煉金術的許多理論是不切實際的，但這並未減弱賢者之石作為一種象徵的力量，它依然在文學、藝術和哲學中扮演著重要的角色。</p>
+<hr>
+<h2 id="現代文化中的賢者之石">現代文化中的賢者之石</h2>
+<p>儘管賢者之石在科學上被否定了其實際存在的可能性，但它在現代文化中仍然活躍。例如，哈利波特系列中的「賢者之石」作為故事的中心物品，展現了它作為神秘物件的魅力和影響力。同樣地，許多電影和小說也採用了這個概念，將其作為故事的核心元素，進一步豐富了其象徵意義和神秘性。</p>
+<hr>
+<h2 id="結語">結語</h2>
+<p>賢者之石不僅僅是煉金術的理論追求，更是人類智慧和探索的象徵。它體現了人類對於知識極限和物質轉化的渴望，是煉金術士們追求的象徵性象征。儘管它可能永遠只是神話與傳說的一部分，但賢者之石永遠在我們的文化和心靈中繼續發揮著重要作用，激發著我們對於超越現實界限的想像力和探索精神。</p>
+]]></content>
+      <categories>
+        <category>煉金術</category>
+      </categories>
+      <tags>
+        <tag>賢者之石</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>知名的三位煉金術師</title>
+    <url>/2024/06/23/%E7%9F%A5%E5%90%8D%E7%9A%84%E4%B8%89%E4%BD%8D%E7%85%89%E9%87%91%E8%A1%93%E5%B8%AB/</url>
+    <content><![CDATA[煉金術，這門古老的科學與哲學結合的藝術，自古以來就令人神往。
+<span id="more"></span>
+<hr>
+<p>一些傳奇般的煉金術師以其卓越的智慧和神秘的成就，深深吸引了人們的注意。<br>
+在這篇文章中，我們將探討幾位歷史上最有名的煉金術師及其傳奇故事。</p>
+<hr>
+<h3 id="1-尼古拉斯弗拉梅爾nicolas-flamel">1. 尼古拉斯・弗拉梅爾（Nicolas Flamel）</h3>
+<p>尼古拉斯・弗拉梅爾（Nicolas Flamel）可能是煉金術史上最著名的人物之一。他生活於 14 至 15 世紀的法國，據說他成功製造了煉金術中的「賢者之石」，並因此獲得了永生。弗拉梅爾與他的妻子住在巴黎，並將他的財富用於慈善事業。雖然現代歷史學家普遍認為他的神話色彩比真實更為濃厚，但他的傳說仍然吸引著無數尋求永生之人的想像。</p>
+<ul>
+<li><strong>賢者之石的製作</strong>：尼古拉斯・弗拉梅爾傳說中最著名的成就是成功製造了煉金術中的「賢者之石」。這種石預言能夠讓人獲得永生並轉化普通金屬為黃金。</li>
+<li><strong>慈善事業</strong>：弗拉梅爾據說將他的財富用於慈善事業，並在巴黎建立了多個慈善機構和教堂。這使他成為了一個受到敬重的人物，即使在他逝世後，人們仍相信他獲得了永生。</li>
+</ul>
+<p><img src="Nicolas-Flamel.jpg" alt="圖源自 Wiki 維基百科：尼古拉·弗拉梅爾（Nicolas Flamel）"></p>
+<hr>
+<h3 id="2-帕拉塞爾蘇斯paracelsus">2. 帕拉塞爾蘇斯（Paracelsus）</h3>
+<p>帕拉塞爾蘇斯（Paracelsus），本名為菲利普斯・阿瑟奇（Philippus Aureolus Theophrastus Bombastus von Hohenheim），是 16 世紀瑞士的一位著名煉金術師和醫學家。他不僅在煉金術上有著深厚的造詣，還對當時的醫學理論提出了重要挑戰和改進。帕拉塞爾蘇斯的研究影響了後世煉金術的發展，他的思想和作品被後來的學者廣泛引用和解讀。</p>
+<ul>
+<li><strong>對醫學的貢獻</strong>：帕拉塞爾蘇斯在煉金術以外，還是一位重要的醫學家和研究者。他對當時的醫學理論提出了革新性的挑戰，主張通過實驗和觀察來驗證理論，這對現代醫學的發展產生了深遠的影響。</li>
+<li><strong>理論創新</strong>：他主張人體與自然界的密切聯繫，並強調治療應該基於理解身體的自癒能力和疾病的根源。</li>
+</ul>
+<p><img src="Paracelsus.jpg" alt="圖源自 Wiki 維基百科：帕拉塞爾蘇斯（Paracelsus)"></p>
+<hr>
+<h3 id="3-瓦倫丁斯瑪戈valentinus-maugero">3. 瓦倫丁斯・瑪戈（Valentinus Maugero）</h3>
+<p>瑪戈（Valentinus Maugero）是 15 世紀的一位義大利煉金術師，他的作品對後來的煉金術發展影響深遠。據說他成功合成了賢者之石，並且他的研究成果影響了當時許多其他煉金術師的工作。瑪戈的實驗和著作被認為是中世紀煉金術的高峰之一，他的神秘形象和貢獻成為了後人研究和追溯的對象。</p>
+<ul>
+<li><strong>賢者之石的合成</strong>：瑪戈被認為成功合成了煉金術中的賢者之石，這使他在當時的煉金術界聲名大噪。</li>
+<li><strong>影響力和著作</strong>：他的研究和實驗成果影響了當時許多其他煉金術師的工作，他的著作被後來的研究者廣泛引用和解讀，對中世紀煉金術的發展有著重要貢獻。</li>
+</ul>
+<hr>
+<h3 id="結語">結語</h3>
+<p>這些煉金術師不僅是科學探索的先驅，也是文化和歷史上的重要人物。他們的研究和實驗成果，雖然未必達到當初宣稱的目標，但對科學進步和人類文明的發展仍然有著深遠的影響。他們的故事，既是神秘和奇幻的傳說，也是人類對知識和永生追求的象徵。隨著時間的推移，這些傳奇人物的名字和成就，將繼續激勵著後人對未知的探索和智慧的追求。</p>
+]]></content>
+      <categories>
+        <category>煉金術</category>
+      </categories>
+      <tags>
+        <tag>煉金術師</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>四個知名的暗網交易市場｜充滿毒品、駭客、非法物品的黑市</title>
+    <url>/2024/06/24/%E5%9B%9B%E5%80%8B%E7%9F%A5%E5%90%8D%E7%9A%84%E6%9A%97%E7%B6%B2%E4%BA%A4%E6%98%93%E5%B8%82%E5%A0%B4/</url>
+    <content><![CDATA[探索暗網的四大市場，販售毒品、黑客工具及非法商品的神秘網路交易平台。
+<span id="more"></span>
+<hr>
+<h2 id="1-silk-road">1. Silk Road</h2>
+<p><img src="silk-road.png" alt=""></p>
+<p><strong>Silk Road</strong> 又稱「 <code>絲綢之路</code> 」，是一個歷史上非常著名的暗網市場，於 2011 年由 Ross Ulbricht（化名 Dread Pirate Roberts）創建。該網站以其交易非法物品而聞名，包括毒品、偽造文件、黑客工具等，並使用比特幣作為主要的交易貨幣，這使得交易過程具有高度的匿名性。</p>
+<h3 id="創立與運營">創立與運營</h3>
+<ul>
+<li><strong>創始人</strong>：Ross Ulbricht，化名 Dread Pirate Roberts（DPR）</li>
+<li><strong>創建時間</strong>：2011 年 2 月</li>
+<li><strong>運營模式</strong>：Silk Road 作為一個暗網市場平台，允許用戶匿名購買和出售各種非法商品和服務。網站上有一個評價系統，讓買家和賣家能夠互相評分，這在一定程度上增加了交易的信任度。</li>
+</ul>
+<h3 id="交易種類">交易種類</h3>
+<p>Silk Road 上的商品種類繁多，包括但不限於以下幾類：</p>
+<ol>
+<li><strong>毒品</strong>：各類非法毒品，包括大麻、可卡因、迷幻藥等。</li>
+<li><strong>偽造文件</strong>：假護照、駕照、身份證等。</li>
+<li><strong>黑客工具</strong>：惡意軟件、黑客教程、被盜數據等。</li>
+<li><strong>其它非法物品</strong>：如武器、被盜信用卡信息等。</li>
+</ol>
+<h3 id="技術與安全">技術與安全</h3>
+<ul>
+<li><strong>比特幣支付</strong>：Silk Road 主要使用比特幣進行交易，這種加密貨幣提供了相對較高的匿名性。</li>
+<li><strong>Tor 網絡</strong>：網站通過 Tor 網絡運行，用戶需要使用 Tor 瀏覽器才能訪問。這進一步增強了用戶的匿名性和安全性。</li>
+</ul>
+<h3 id="執法行動與關閉">執法行動與關閉</h3>
+<ul>
+<li><strong>調查過程</strong>：2013 年，聯邦調查局（FBI）對 Silk Road 展開調查。執法機構利用各種技術手段，包括追踪比特幣交易和滲透 Silk Road 的管理團隊。</li>
+<li><strong>關閉時間</strong>：2013 年 10 月 2 日</li>
+<li><strong>逮捕</strong>：Ross Ulbricht 在舊金山的一家圖書館被捕。隨後，他被指控涉及毒品販賣、黑客活動和洗錢等多項罪名。</li>
+<li><strong>審判與判刑</strong>：2015 年 5 月，Ross Ulbricht 被判處終身監禁，不得假釋。</li>
+</ul>
+<h3 id="影響">影響</h3>
+<ol>
+<li><strong>暗網市場的興起</strong>：Silk Road 的成功運營和隨後的關閉促使了其他類似市場的出現。</li>
+<li><strong>數字貨幣的使用</strong>：Silk Road 在一定程度上推動了比特幣的普及，展示了其在匿名交易中的潛力和應用。</li>
+<li><strong>執法挑戰</strong>：Silk Road 的出現給國際執法機構帶來了新的挑戰，促使他們開發新的技術和策略來應對暗網犯罪。</li>
+</ol>
+<h3 id="後續發展">後續發展</h3>
+<ul>
+<li><strong>Silk Road 2.0</strong>：在 Silk Road 被關閉後不久，一些原有的管理團隊成員創建了 Silk Road 2.0，試圖延續原網站的運營模式。然而，Silk Road 2.0 在 2014 年也被執法機構關閉。</li>
+<li><strong>暗網市場的演變</strong>：雖然 Silk Road 的關閉對暗網市場造成了重大打擊，但其模式和影響依然存在。許多新興市場繼續使用類似的運營模式，暗網市場的生態系統依然活躍。</li>
+</ul>
+<h3 id="總結">總結</h3>
+<p>Silk Road 作為第一個大規模的暗網市場，對黑市交易和網絡匿名性進行了前所未有的實驗。它的出現和隨後的倒台對暗網生態系統、數字貨幣的使用以及國際執法行動產生了深遠的影響。雖然 Silk Road 已經成為歷史，但它的遺產和影響仍然存在於今天的暗網市場中。</p>
+<hr>
+<h2 id="2-alphabay">2. AlphaBay</h2>
+<p><img src="AlphaBay.png" alt="圖源自 Wiki 維基百科"></p>
+<p><strong>AlphaBay</strong> 是一個著名的暗網市場，於 2014 年創建，由加拿大人 Alexandre Cazes（化名 Alpha02）運營。AlphaBay 迅速成為 Silk Road 的繼任者，提供各種非法物品和服務，並且是當時最大的暗網市場之一。</p>
+<h3 id="創立與運營-2">創立與運營</h3>
+<ul>
+<li><strong>創始人</strong>：Alexandre Cazes，化名 Alpha02</li>
+<li><strong>創建時間</strong>：2014 年 12 月</li>
+<li><strong>運營模式</strong>：AlphaBay 作為一個暗網市場平台，允許用戶匿名購買和出售各種非法商品和服務。網站上設有一個評價系統，使買家和賣家能夠互相評分，增強交易的信任度。</li>
+</ul>
+<h3 id="交易種類-2">交易種類</h3>
+<p>AlphaBay 上的商品種類繁多，包括但不限於以下幾類：</p>
+<ol>
+<li><strong>毒品</strong>：各類非法毒品，包括大麻、可卡因、迷幻藥等。</li>
+<li><strong>偽造文件</strong>：假護照、駕照、身份證等。</li>
+<li><strong>黑客工具</strong>：惡意軟件、黑客教程、被盜數據等。</li>
+<li><strong>盜版軟件</strong>：未經授權的軟件副本和破解工具。</li>
+<li><strong>其它非法物品</strong>：如武器、被盜信用卡信息等。</li>
+</ol>
+<h3 id="技術與安全-2">技術與安全</h3>
+<ul>
+<li><strong>加密貨幣支付</strong>：AlphaBay 主要使用比特幣和 Monero 進行交易，這些加密貨幣提供了相對較高的匿名性。</li>
+<li><strong>Tor 網絡</strong>：網站通過 Tor 網絡運行，用戶需要使用 Tor 瀏覽器才能訪問。這進一步增強了用戶的匿名性和安全性。</li>
+<li><strong>雙因素認證（2FA）</strong>：AlphaBay 提供了雙因素認證選項，增加了額外的安全層。</li>
+</ul>
+<h3 id="執法行動與關閉-2">執法行動與關閉</h3>
+<ul>
+<li><strong>調查過程</strong>：2017 年，國際執法機構展開了對 AlphaBay 的調查。包括 FBI、美國緝毒局（DEA）和荷蘭警方在內的多個機構合作追踪 AlphaBay 的運營。</li>
+<li><strong>關閉時間</strong>：2017 年 7 月 4 日，AlphaBay 被執法機構關閉。</li>
+<li><strong>逮捕</strong>：Alexandre Cazes 在泰國曼谷被捕，並在泰國的監獄中自殺。</li>
+<li><strong>執法合作</strong>：這次行動是國際執法機構合作的結果，展示了全球打擊暗網犯罪的協調努力。</li>
+</ul>
+<h3 id="影響-2">影響</h3>
+<ol>
+<li><strong>暗網市場的變遷</strong>：AlphaBay 的關閉導致了用戶向其他暗網市場的遷移，如 Dream Market 和 Hansa Market。</li>
+<li><strong>加密貨幣的進一步應用</strong>：AlphaBay 的成功和隨後的關閉進一步展示了加密貨幣在匿名交易中的潛力和挑戰。</li>
+<li><strong>國際執法合作</strong>：AlphaBay 的關閉顯示了國際執法機構在打擊暗網犯罪方面的有效合作和協調。</li>
+</ol>
+<h3 id="後續發展-2">後續發展</h3>
+<ul>
+<li><strong>暗網市場的重組</strong>：AlphaBay 的關閉對暗網市場造成了重大打擊，但隨著時間的推移，新的市場繼續出現，延續了其運營模式。</li>
+<li><strong>用戶安全意識提高</strong>：AlphaBay 的事件促使暗網用戶提高了安全意識，並採取了更多的匿名和安全措施。</li>
+</ul>
+<h3 id="總結-2">總結</h3>
+<p>AlphaBay 在其運營期間成為了當時最大的暗網市場之一，提供了多種非法商品和服務。其運營模式、交易方式和安全措施在一定程度上延續了 Silk Road 的傳統。AlphaBay 的關閉和創始人的逮捕展示了國際執法機構在打擊暗網犯罪方面的決心和能力。儘管如此，暗網市場的生態系統仍在不斷演變，新興市場繼續出現，挑戰著執法機構的打擊力度和技術能力。</p>
+<hr>
+<h2 id="3-dream-market">3. Dream Market</h2>
+<p><img src="DreamMarket.png" alt="圖源自 Wiki 維基百科"></p>
+<p><strong>Dream Market</strong> 又稱「 <code>夢想市集</code> 」，是一個深藏在暗網中運營多年的電子商務平台，於 2013 年上線，主要用於販售非法商品和服務。直到 2019 年 3 月才宣布關閉。這個網站以其良好的安全性和用戶界面而聞名，提供各類非法商品和服務，包括毒品、盜版數據和假證件等。</p>
+<p><strong>影響</strong>：Dream Market 在其運營期間吸引了大量用戶，成為了 Silk Road 和 AlphaBay 倒台後的主要替代市場之一。其關閉引發了用戶對新興市場的興趣和探索。</p>
+<p>Dream Market 於 2013 年推出，很快成為暗網中最大、最受歡迎的市場之一。它的特點在於匿名性和使用加密貨幣（如比特幣）進行交易，這使得買賣難以被追踪和監控。這個平台不僅僅是販售毒品的市場，還包括其他非法商品和服務，如偽造文件、黑客工具、個人資料賣淫等。</p>
+<p>在 Dream Market 上，用戶可以通過匿名的方式瀏覽和購買商品，賣家則可以在這裡設置自己的店鋪，展示和銷售商品。這些商品通常以非常低調的方式進行宣傳，只有已知的用戶才能找到這些頁面。</p>
+<p>然而，像所有暗網市場一樣，Dream Market 也面臨著許多風險和法律問題。由於其非法性質，該平台經常受到執法機構的注意和打擊。多次行動中，許多暗網市場和他們的用戶都曾被揭露和逮捕，Dream Market 也不例外。</p>
+<p>雖然 Dream Market 本身可能已經關閉或轉移到新的域名下，但它作為暗網市場的典型代表，仍然具有重要的研究價值和社會影響。這些市場不僅顯示了互聯網和加密貨幣技術如何被用於非法活動，也提醒我們在網絡空間中隱藏的風險和挑戰。</p>
+<hr>
+<h2 id="4-hansa-market">4. Hansa Market</h2>
+<p><img src="HansaMarket.png" alt="圖源自 Wiki 維基百科"></p>
+<p><strong>Hansa Market</strong> 是一個著名的暗網市場，與 Dream Market 和 AlphaBay 同時期運營。該網站提供了各種非法商品和服務。2017 年 7 月，在 AlphaBay 被關閉的同時，Hansa Market 也被執法機構接管，並被用來捕獲更多的暗網用戶。</p>
+<p><strong>影響</strong>：Hansa Market 的運營和隨後的執法行動顯示了國際執法機構在打擊暗網犯罪方面的合作和效率。這次行動導致大量用戶被捕，對暗網市場造成了重大打擊。</p>
+<h3 id="起源和歷史">起源和歷史</h3>
+<p>Hansa Market 於 2015 年成立，是當時暗網上較為新興但快速成長的市場之一。它起初的目的是提供一個匿名和安全的平台，供用戶買賣各種非法商品和服務，如毒品、偽造文件、黑客工具、武器等。Hansa Market 的經營者和用戶都使用加密貨幣進行交易，通常以比特幣作為主要支付方式。</p>
+<h3 id="平台特點">平台特點</h3>
+<ol>
+<li>
+<p><strong>匿名性和安全性</strong>: Hansa Market 提供了高度匿名的環境，用戶可以在不暴露個人身份的情況下進行交易。這種匿名性是吸引許多用戶和賣家的重要因素之一。</p>
+</li>
+<li>
+<p><strong>商品多樣性</strong>：與其他暗網市場一樣，Hansa Market 上的商品種類繁多，從毒品到非法武器，從黑客工具到偽造文件等應有盡有。用戶可以在市場上輕鬆找到他們需要的各種非法商品。</p>
+</li>
+<li>
+<p><strong>用戶界面</strong>: Hansa Market 設計了直觀和易於使用的用戶界面，使得用戶可以輕鬆尋找商品、下訂單並與賣家溝通。這種設計有助於提升用戶體驗和交易效率。</p>
+</li>
+<li>
+<p><strong>評價系統</strong>：為了增加交易的信任度，Hansa Market 提供了評價系統，用戶可以對交易過程中的賣家進行評價和留言。這有助於其他用戶在選擇購買商品時做出更為明智的決定。</p>
+</li>
+</ol>
+<h3 id="安全和關閉">安全和關閉</h3>
+<p>雖然 Hansa Market 在其運營期間吸引了大量用戶和交易活動，但它最終也未能免於法律執法的打擊。在 2017 年，荷蘭和德國的執法機構聯合進行了行動，成功關閉了 Hansa Market。這次行動被認為是當時暗網打擊犯罪活動的一大里程碑，因為 Hansa Market 事實上被執法當局控制了一段時間，他們成功地擴大了他们的作品，并取缔了大量的账户。 are W من</p>
+<hr>
+<p>這些網站在暗網歷史上都具有重要地位，它們展示了暗網市場的發展、運作方式以及執法機構的反應。雖然這些網站已經被關閉，但它們的影響仍在持續，並引發了對暗網世界的更多關注和研究。</p>
+]]></content>
+      <categories>
+        <category>暗網</category>
+      </categories>
+      <tags>
+        <tag>Editing (編輯中)</tag>
       </tags>
   </entry>
 </search>
